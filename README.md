@@ -28,4 +28,6 @@
 
 [reference2](https://cloud.tencent.com/developer/article/2425302)
 
-![示意圖](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fqt206cdsa1181.gif%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D365b65745c7b9454f4cc3ac6418bf7cc86b458fb)
+<img width="1080" height="723" alt="image" src="https://github.com/user-attachments/assets/96229096-c221-4fa1-99cd-d0c43eb806e1" />
+
+
