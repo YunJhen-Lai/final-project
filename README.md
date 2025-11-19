@@ -7,7 +7,7 @@
     -台中七期 & 工業區+農業區
 
 希望能輔助畢業設計的分析階段
-![citysection](final-project\assets\citysection+plan2.jpg)
+![alt.citysection](assets/citysection+plan2.jpg)
 
 ### 資料蒐集困難
 如何得知人流?如何得知人流數據中屬於哪些階級
@@ -28,6 +28,6 @@
 
 [reference2](https://cloud.tencent.com/developer/article/2425302)
 
-<img width="1080" height="723" alt="image" src="https://github.com/user-attachments/assets/96229096-c221-4fa1-99cd-d0c43eb806e1" />
+![示意圖](https://i-blog.csdnimg.cn/blog_migrate/ad4dc26e5f602d1e4d634f1b0069a22e.png)
 
 
