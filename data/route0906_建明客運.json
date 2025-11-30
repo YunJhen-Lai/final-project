@@ -1,0 +1,6010 @@
+[
+  {
+    "RouteUID": "TXG39",
+    "RouteID": "39",
+    "RouteName": {
+      "Zh_tw": "39",
+      "En": "39"
+    },
+    "Operators": [
+      {
+        "OperatorID": "24",
+        "OperatorName": {
+          "Zh_tw": "建明客運",
+          "En": "Free Go Bus Co., Ltd."
+        },
+        "OperatorCode": "JianMingBus",
+        "OperatorNo": "0906"
+      }
+    ],
+    "SubRouteUID": "TXG39",
+    "SubRouteID": "39",
+    "SubRouteName": {
+      "Zh_tw": "39",
+      "En": "39"
+    },
+    "Direction": 0,
+    "CityCode": "TXG",
+    "Stops": [
+      {
+        "StopUID": "TXG14419",
+        "StopID": "14419",
+        "StopName": {
+          "Zh_tw": "新烏日車站(B區)",
+          "En": "Xinwuri Station(B)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 24.108689,
+          "PositionLon": 120.613875
+        },
+        "StationID": "5261",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22717",
+        "StopID": "22717",
+        "StopName": {
+          "Zh_tw": "國際展覽館(烏厝巷)",
+          "En": "TCIEC(Wucuo Lane)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.107174,
+          "PositionLon": 120.612066
+        },
+        "StationID": "417",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23666",
+        "StopID": "23666",
+        "StopName": {
+          "Zh_tw": "烏日國中(新興路)",
+          "En": "Wuri Junior High School(Xinxing Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.105541,
+          "PositionLon": 120.616992
+        },
+        "StationID": "2610",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23667",
+        "StopID": "23667",
+        "StopName": {
+          "Zh_tw": "烏日(新興路)",
+          "En": "Wuri(Xinxing Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 24.10508,
+          "PositionLon": 120.62131
+        },
+        "StationID": "2871",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23668",
+        "StopID": "23668",
+        "StopName": {
+          "Zh_tw": "烏日區公所(新興路)",
+          "En": "Wuri District Office(Xinxing Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 24.104385,
+          "PositionLon": 120.623467
+        },
+        "StationID": "2869",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23669",
+        "StopID": "23669",
+        "StopName": {
+          "Zh_tw": "五光公園三街口",
+          "En": "Wuguang-Gongyuan 3rd Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 24.102524,
+          "PositionLon": 120.628209
+        },
+        "StationID": "3575",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23670",
+        "StopID": "23670",
+        "StopName": {
+          "Zh_tw": "五光復光六巷口",
+          "En": "Wuguang-Fuguang 6th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 24.09976,
+          "PositionLon": 120.630932
+        },
+        "StationID": "4088",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23671",
+        "StopID": "23671",
+        "StopName": {
+          "Zh_tw": "五光復光五巷口",
+          "En": "Wuguang-Fuguang 5th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 24.098464,
+          "PositionLon": 120.633049
+        },
+        "StationID": "4090",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23672",
+        "StopID": "23672",
+        "StopName": {
+          "Zh_tw": "五光復光四巷口",
+          "En": "Wuguang-Fuguang 4th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 24.097484,
+          "PositionLon": 120.63505
+        },
+        "StationID": "4372",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23673",
+        "StopID": "23673",
+        "StopName": {
+          "Zh_tw": "五光溪南路口",
+          "En": "Wuguang-Xinan Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 24.096293,
+          "PositionLon": 120.63834
+        },
+        "StationID": "4092",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23674",
+        "StopID": "23674",
+        "StopName": {
+          "Zh_tw": "五光環河路口",
+          "En": "Wuguang-Huanhe Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 24.093503,
+          "PositionLon": 120.643755
+        },
+        "StationID": "4094",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23675",
+        "StopID": "23675",
+        "StopName": {
+          "Zh_tw": "五光環中路口",
+          "En": "Wuguang-Huanzhong Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLat": 24.092916,
+          "PositionLon": 120.647097
+        },
+        "StationID": "4096",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23676",
+        "StopID": "23676",
+        "StopName": {
+          "Zh_tw": "五張犁福德宮",
+          "En": "Wuzhangli Fude Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLat": 24.093840150962,
+          "PositionLon": 120.65083056984
+        },
+        "StationID": "4098",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23677",
+        "StopID": "23677",
+        "StopName": {
+          "Zh_tw": "五光里",
+          "En": "Wuguang Village"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLat": 24.094406333019,
+          "PositionLon": 120.65262033307
+        },
+        "StationID": "3180",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23678",
+        "StopID": "23678",
+        "StopName": {
+          "Zh_tw": "五光五中巷口",
+          "En": "Wuguang-Wuzhong Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLat": 24.095227,
+          "PositionLon": 120.654996
+        },
+        "StationID": "3178",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG6626",
+        "StopID": "6626",
+        "StopName": {
+          "Zh_tw": "德昌社區",
+          "En": "Dechang Community"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLat": 24.095847,
+          "PositionLon": 120.658284
+        },
+        "StationID": "4130",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23680",
+        "StopID": "23680",
+        "StopName": {
+          "Zh_tw": "樹王",
+          "En": "Shuwang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLat": 24.09673665024,
+          "PositionLon": 120.66476830944
+        },
+        "StationID": "4100",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23681",
+        "StopID": "23681",
+        "StopName": {
+          "Zh_tw": "瓦瑤",
+          "En": "Wayao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLat": 24.097029,
+          "PositionLon": 120.670097
+        },
+        "StationID": "6755",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23682",
+        "StopID": "23682",
+        "StopName": {
+          "Zh_tw": "理想大地社區",
+          "En": "Lixiangdadi Community"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLat": 24.097558,
+          "PositionLon": 120.673516
+        },
+        "StationID": "4102",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23683",
+        "StopID": "23683",
+        "StopName": {
+          "Zh_tw": "大里",
+          "En": "Dali"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLat": 24.097915634595,
+          "PositionLon": 120.67703132065
+        },
+        "StationID": "4104",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23684",
+        "StopID": "23684",
+        "StopName": {
+          "Zh_tw": "大里國小",
+          "En": "Dali Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLat": 24.099683488036,
+          "PositionLon": 120.67706372331
+        },
+        "StationID": "3164",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23685",
+        "StopID": "23685",
+        "StopName": {
+          "Zh_tw": "大里農會",
+          "En": "Dali Farmers Assoc."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLat": 24.100685,
+          "PositionLon": 120.676848
+        },
+        "StationID": "4106",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23686",
+        "StopID": "23686",
+        "StopName": {
+          "Zh_tw": "進士公園(德芳路)",
+          "En": "Jinshi Park(Defang Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLat": 24.10308,
+          "PositionLon": 120.675862
+        },
+        "StationID": "4108",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23687",
+        "StopID": "23687",
+        "StopName": {
+          "Zh_tw": "環保公園",
+          "En": "Environment Protection Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLat": 24.103856,
+          "PositionLon": 120.678286
+        },
+        "StationID": "4111",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23688",
+        "StopID": "23688",
+        "StopName": {
+          "Zh_tw": "國光德芳路口",
+          "En": "Guoguang-Defang Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLat": 24.105252,
+          "PositionLon": 120.681225
+        },
+        "StationID": "932",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23689",
+        "StopID": "23689",
+        "StopName": {
+          "Zh_tw": "大里仁愛醫院(東榮路)",
+          "En": "Dali Ren-Ai Hospital(Dongrong Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLat": 24.109446,
+          "PositionLon": 120.680475
+        },
+        "StationID": "4113",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23690",
+        "StopID": "23690",
+        "StopName": {
+          "Zh_tw": "興大附中(東榮路)",
+          "En": "NCHU Affiliated Senior High School(Dongrong Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLat": 24.110001,
+          "PositionLon": 120.682677
+        },
+        "StationID": "1787",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23691",
+        "StopID": "23691",
+        "StopName": {
+          "Zh_tw": "大里地政事務所",
+          "En": "Da Li Land Offices"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLat": 24.110314,
+          "PositionLon": 120.685555
+        },
+        "StationID": "3058",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23692",
+        "StopID": "23692",
+        "StopName": {
+          "Zh_tw": "大里公園",
+          "En": "Dali Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLat": 24.110197500003,
+          "PositionLon": 120.68802199997
+        },
+        "StationID": "2819",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23693",
+        "StopID": "23693",
+        "StopName": {
+          "Zh_tw": "中興大里路口",
+          "En": "Zhongxing-Dali Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLat": 24.108539,
+          "PositionLon": 120.6899
+        },
+        "StationID": "4115",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23694",
+        "StopID": "23694",
+        "StopName": {
+          "Zh_tw": "立人高中",
+          "En": "Liren Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLat": 24.105735,
+          "PositionLon": 120.689338
+        },
+        "StationID": "4117",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23696",
+        "StopID": "23696",
+        "StopName": {
+          "Zh_tw": "大元國小",
+          "En": "Dayuan Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLat": 24.101084681231,
+          "PositionLon": 120.68944414411
+        },
+        "StationID": "4119",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23697",
+        "StopID": "23697",
+        "StopName": {
+          "Zh_tw": "健康公園(立元路)",
+          "En": "Jiankang Park(Liyuan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLat": 24.09976,
+          "PositionLon": 120.695956
+        },
+        "StationID": "4122",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23698",
+        "StopID": "23698",
+        "StopName": {
+          "Zh_tw": "立中街",
+          "En": "Lizhong Street"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 34,
+        "StopPosition": {
+          "PositionLat": 24.101205,
+          "PositionLon": 120.697177
+        },
+        "StationID": "4124",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23700",
+        "StopID": "23700",
+        "StopName": {
+          "Zh_tw": "立新國小",
+          "En": "Lishin Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 35,
+        "StopPosition": {
+          "PositionLat": 24.105893,
+          "PositionLon": 120.699019
+        },
+        "StationID": "4128",
+        "LocationCityCode": "TXG"
+      }
+    ]
+  },
+  {
+    "RouteUID": "TXG39",
+    "RouteID": "39",
+    "RouteName": {
+      "Zh_tw": "39",
+      "En": "39"
+    },
+    "Operators": [
+      {
+        "OperatorID": "24",
+        "OperatorName": {
+          "Zh_tw": "建明客運",
+          "En": "Free Go Bus Co., Ltd."
+        },
+        "OperatorCode": "JianMingBus",
+        "OperatorNo": "0906"
+      }
+    ],
+    "SubRouteUID": "TXG39",
+    "SubRouteID": "39",
+    "SubRouteName": {
+      "Zh_tw": "39",
+      "En": "39"
+    },
+    "Direction": 1,
+    "CityCode": "TXG",
+    "Stops": [
+      {
+        "StopUID": "TXG23701",
+        "StopID": "23701",
+        "StopName": {
+          "Zh_tw": "立新國小",
+          "En": "Lishin Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 24.105095,
+          "PositionLon": 120.699824
+        },
+        "StationID": "4129",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23702",
+        "StopID": "23702",
+        "StopName": {
+          "Zh_tw": "立新國中",
+          "En": "Li Shin Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.104285,
+          "PositionLon": 120.698051
+        },
+        "StationID": "4127",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23703",
+        "StopID": "23703",
+        "StopName": {
+          "Zh_tw": "立中街",
+          "En": "Lizhong Street"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.101704,
+          "PositionLon": 120.697153
+        },
+        "StationID": "4125",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23704",
+        "StopID": "23704",
+        "StopName": {
+          "Zh_tw": "健康公園(立元路)",
+          "En": "Jiankang Park(Liyuan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 24.099743,
+          "PositionLon": 120.695895
+        },
+        "StationID": "4123",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23705",
+        "StopID": "23705",
+        "StopName": {
+          "Zh_tw": "大元國小",
+          "En": "Dayuan Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 24.101102502147,
+          "PositionLon": 120.68989349332
+        },
+        "StationID": "4120",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23706",
+        "StopID": "23706",
+        "StopName": {
+          "Zh_tw": "下內新",
+          "En": "Xianeixin"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 24.102923,
+          "PositionLon": 120.688543
+        },
+        "StationID": "10",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23707",
+        "StopID": "23707",
+        "StopName": {
+          "Zh_tw": "立人高中",
+          "En": "Liren Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 24.104897,
+          "PositionLon": 120.689149
+        },
+        "StationID": "4118",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23708",
+        "StopID": "23708",
+        "StopName": {
+          "Zh_tw": "中興大里路口",
+          "En": "Zhongxing-Dali Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 24.10865,
+          "PositionLon": 120.690016
+        },
+        "StationID": "4116",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23709",
+        "StopID": "23709",
+        "StopName": {
+          "Zh_tw": "大里公園",
+          "En": "Dali Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 24.110278999954,
+          "PositionLon": 120.6874209992
+        },
+        "StationID": "2820",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23710",
+        "StopID": "23710",
+        "StopName": {
+          "Zh_tw": "大里地政事務所",
+          "En": "Da Li Land Offices"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 24.11038,
+          "PositionLon": 120.685654
+        },
+        "StationID": "3059",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23711",
+        "StopID": "23711",
+        "StopName": {
+          "Zh_tw": "興大附中(東榮路)",
+          "En": "NCHU Affiliated Senior High School(Dongrong Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 24.110085,
+          "PositionLon": 120.682789
+        },
+        "StationID": "1786",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23712",
+        "StopID": "23712",
+        "StopName": {
+          "Zh_tw": "大里仁愛醫院(國光路)",
+          "En": "Dali Ren-Ai Hospital(Guoguang Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLat": 24.108536140826,
+          "PositionLon": 120.6798980233
+        },
+        "StationID": "913",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23713",
+        "StopID": "23713",
+        "StopName": {
+          "Zh_tw": "國光德芳路口",
+          "En": "Guoguang-Defang Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLat": 24.105264483069,
+          "PositionLon": 120.68088353579
+        },
+        "StationID": "933",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23714",
+        "StopID": "23714",
+        "StopName": {
+          "Zh_tw": "環保公園",
+          "En": "Environment Protection Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLat": 24.104111,
+          "PositionLon": 120.678141
+        },
+        "StationID": "4112",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23716",
+        "StopID": "23716",
+        "StopName": {
+          "Zh_tw": "大里農會",
+          "En": "Dali Farmers Assoc."
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLat": 24.100791,
+          "PositionLon": 120.676703
+        },
+        "StationID": "4107",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23717",
+        "StopID": "23717",
+        "StopName": {
+          "Zh_tw": "大里國小",
+          "En": "Dali Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLat": 24.099626,
+          "PositionLon": 120.677017
+        },
+        "StationID": "3163",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23718",
+        "StopID": "23718",
+        "StopName": {
+          "Zh_tw": "大里",
+          "En": "Dali"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLat": 24.097928,
+          "PositionLon": 120.676973
+        },
+        "StationID": "4105",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23719",
+        "StopID": "23719",
+        "StopName": {
+          "Zh_tw": "理想大地社區",
+          "En": "Lixiangdadi Community"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLat": 24.097576,
+          "PositionLon": 120.673283
+        },
+        "StationID": "4103",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23720",
+        "StopID": "23720",
+        "StopName": {
+          "Zh_tw": "瓦瑤",
+          "En": "Wayao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLat": 24.097109,
+          "PositionLon": 120.66993
+        },
+        "StationID": "6754",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23721",
+        "StopID": "23721",
+        "StopName": {
+          "Zh_tw": "樹王",
+          "En": "Shuwang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLat": 24.096839,
+          "PositionLon": 120.664537
+        },
+        "StationID": "4101",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23722",
+        "StopID": "23722",
+        "StopName": {
+          "Zh_tw": "德昌社區",
+          "En": "Dechang Community"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLat": 24.096134,
+          "PositionLon": 120.65892
+        },
+        "StationID": "4131",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23723",
+        "StopID": "23723",
+        "StopName": {
+          "Zh_tw": "五光五中巷口",
+          "En": "Wuguang-Wuzhong Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLat": 24.095141,
+          "PositionLon": 120.654883
+        },
+        "StationID": "3177",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23724",
+        "StopID": "23724",
+        "StopName": {
+          "Zh_tw": "五光里",
+          "En": "Wuguang Village"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLat": 24.094478,
+          "PositionLon": 120.652607
+        },
+        "StationID": "3179",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23725",
+        "StopID": "23725",
+        "StopName": {
+          "Zh_tw": "五張犁福德宮",
+          "En": "Wuzhangli Fude Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLat": 24.093842921674,
+          "PositionLon": 120.65072349331
+        },
+        "StationID": "4099",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23726",
+        "StopID": "23726",
+        "StopName": {
+          "Zh_tw": "五光環中路口",
+          "En": "Wuguang-Huanzhong Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLat": 24.092997,
+          "PositionLon": 120.647193
+        },
+        "StationID": "4097",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23727",
+        "StopID": "23727",
+        "StopName": {
+          "Zh_tw": "五光環河路口",
+          "En": "Wuguang-Huanhe Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLat": 24.093564,
+          "PositionLon": 120.643774
+        },
+        "StationID": "4095",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23728",
+        "StopID": "23728",
+        "StopName": {
+          "Zh_tw": "五光溪南路口",
+          "En": "Wuguang-Xinan Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLat": 24.096362,
+          "PositionLon": 120.638385
+        },
+        "StationID": "4093",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23729",
+        "StopID": "23729",
+        "StopName": {
+          "Zh_tw": "五光復光四巷口",
+          "En": "Wuguang-Fuguang 4th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLat": 24.097338,
+          "PositionLon": 120.635837
+        },
+        "StationID": "4373",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23730",
+        "StopID": "23730",
+        "StopName": {
+          "Zh_tw": "五光復光五巷口",
+          "En": "Wuguang-Fuguang 5th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLat": 24.098538,
+          "PositionLon": 120.633094
+        },
+        "StationID": "4091",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23731",
+        "StopID": "23731",
+        "StopName": {
+          "Zh_tw": "五光復光六巷口",
+          "En": "Wuguang-Fuguang 6th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLat": 24.09983,
+          "PositionLon": 120.63098
+        },
+        "StationID": "4089",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG14349",
+        "StopID": "14349",
+        "StopName": {
+          "Zh_tw": "五光公園三街口",
+          "En": "Wuguang-Gongyuan 3rd Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLat": 24.102944,
+          "PositionLon": 120.62809
+        },
+        "StationID": "3574",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23733",
+        "StopID": "23733",
+        "StopName": {
+          "Zh_tw": "烏日區公所(新興路)",
+          "En": "Wuri District Office(Xinxing Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLat": 24.104542,
+          "PositionLon": 120.623853
+        },
+        "StationID": "2868",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23734",
+        "StopID": "23734",
+        "StopName": {
+          "Zh_tw": "烏日(新興路)",
+          "En": "Wuri(Xinxing Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLat": 24.105315,
+          "PositionLon": 120.621386
+        },
+        "StationID": "2870",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23735",
+        "StopID": "23735",
+        "StopName": {
+          "Zh_tw": "烏日國中(新興路)",
+          "En": "Wuri Junior High School(Xinxing Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 34,
+        "StopPosition": {
+          "PositionLat": 24.105727,
+          "PositionLon": 120.616976
+        },
+        "StationID": "2611",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG14605",
+        "StopID": "14605",
+        "StopName": {
+          "Zh_tw": "新烏日車站(B區)",
+          "En": "Xinwuri Station(B)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 35,
+        "StopPosition": {
+          "PositionLat": 24.108689,
+          "PositionLon": 120.613875
+        },
+        "StationID": "5261",
+        "LocationCityCode": "TXG"
+      }
+    ]
+  },
+  {
+    "RouteUID": "TXG661",
+    "RouteID": "661",
+    "RouteName": {
+      "Zh_tw": "661",
+      "En": "661"
+    },
+    "Operators": [
+      {
+        "OperatorID": "24",
+        "OperatorName": {
+          "Zh_tw": "建明客運",
+          "En": "Free Go Bus Co., Ltd."
+        },
+        "OperatorCode": "JianMingBus",
+        "OperatorNo": "0906"
+      }
+    ],
+    "SubRouteUID": "TXG661",
+    "SubRouteID": "661",
+    "SubRouteName": {
+      "Zh_tw": "661",
+      "En": "661"
+    },
+    "Direction": 0,
+    "CityCode": "TXG",
+    "Stops": [
+      {
+        "StopUID": "TXG21657",
+        "StopID": "21657",
+        "StopName": {
+          "Zh_tw": "致用高中",
+          "En": "Chih-Yung Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 24.340415,
+          "PositionLon": 120.629362
+        },
+        "StationID": "2592",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21658",
+        "StopID": "21658",
+        "StopName": {
+          "Zh_tw": "中正紀念館",
+          "En": "Zhongzheng Memorial Hall"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.340252,
+          "PositionLon": 120.626227
+        },
+        "StationID": "10623",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21659",
+        "StopID": "21659",
+        "StopName": {
+          "Zh_tw": "大甲高中(水源路)",
+          "En": "Dajia Senior High School(Shuiyuan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.34187,
+          "PositionLon": 120.622831
+        },
+        "StationID": "4",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21660",
+        "StopID": "21660",
+        "StopName": {
+          "Zh_tw": "南陽里(中山路)",
+          "En": "Nanyang Village(Zhongshan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 24.342771,
+          "PositionLon": 120.624191
+        },
+        "StationID": "1906",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21661",
+        "StopID": "21661",
+        "StopName": {
+          "Zh_tw": "大甲",
+          "En": "Dajia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 24.343072,
+          "PositionLon": 120.625472
+        },
+        "StationID": "132",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21662",
+        "StopID": "21662",
+        "StopName": {
+          "Zh_tw": "大甲車站(中山路)",
+          "En": "Dajia Station(Zhongshan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 24.344647685354,
+          "PositionLon": 120.62667406461
+        },
+        "StationID": "62",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21663",
+        "StopID": "21663",
+        "StopName": {
+          "Zh_tw": "文昌祠",
+          "En": "Wenchang Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 24.347367,
+          "PositionLon": 120.622719
+        },
+        "StationID": "1597",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21664",
+        "StopID": "21664",
+        "StopName": {
+          "Zh_tw": "大甲區公所",
+          "En": "Dajia District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 24.349705,
+          "PositionLon": 120.622377
+        },
+        "StationID": "2326",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21665",
+        "StopID": "21665",
+        "StopName": {
+          "Zh_tw": "大甲國中",
+          "En": "Dajia Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 24.353152010823,
+          "PositionLon": 120.62254832622
+        },
+        "StationID": "644",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21666",
+        "StopID": "21666",
+        "StopName": {
+          "Zh_tw": "文武公園",
+          "En": "Wenwu Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 24.35512,
+          "PositionLon": 120.62217
+        },
+        "StationID": "4723",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21667",
+        "StopID": "21667",
+        "StopName": {
+          "Zh_tw": "社尾玉橋",
+          "En": "Sheweiyu Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 24.358352,
+          "PositionLon": 120.622019
+        },
+        "StationID": "6316",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21668",
+        "StopID": "21668",
+        "StopName": {
+          "Zh_tw": "下社尾",
+          "En": "Xiashewei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLat": 24.36022,
+          "PositionLon": 120.62257
+        },
+        "StationID": "5156",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21669",
+        "StopID": "21669",
+        "StopName": {
+          "Zh_tw": "德元宮",
+          "En": "Deyuan Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLat": 24.36276,
+          "PositionLon": 120.62373
+        },
+        "StationID": "6322",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21670",
+        "StopID": "21670",
+        "StopName": {
+          "Zh_tw": "東西八南北三路口",
+          "En": "Dongxi 8th Nanbei 3rd Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLat": 24.36658,
+          "PositionLon": 120.62398
+        },
+        "StationID": "6197",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21671",
+        "StopID": "21671",
+        "StopName": {
+          "Zh_tw": "廣安宮",
+          "En": "Guang'an Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLat": 24.36742,
+          "PositionLon": 120.61971
+        },
+        "StationID": "6561",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21672",
+        "StopID": "21672",
+        "StopName": {
+          "Zh_tw": "東西七路一段438巷口",
+          "En": "Dongxi 7th Road Sec.1 438th Lane"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLat": 24.370798,
+          "PositionLon": 120.618776
+        },
+        "StationID": "458",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21673",
+        "StopID": "21673",
+        "StopName": {
+          "Zh_tw": "東西七路一段500巷口",
+          "En": "Dongxi 7th Road Sec.1 500th Lane"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLat": 24.37107,
+          "PositionLon": 120.61655
+        },
+        "StationID": "6153",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21674",
+        "StopID": "21674",
+        "StopName": {
+          "Zh_tw": "紀厝",
+          "En": "Jicuo"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLat": 24.37152,
+          "PositionLon": 120.61317
+        },
+        "StationID": "5055",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21675",
+        "StopID": "21675",
+        "StopName": {
+          "Zh_tw": "東西七路二段",
+          "En": "Dongxi 7th Road Sec.2"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLat": 24.37244,
+          "PositionLon": 120.60997
+        },
+        "StationID": "85",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21676",
+        "StopID": "21676",
+        "StopName": {
+          "Zh_tw": "東西七南北六路口",
+          "En": "Dongxi 7th Nanbei 6rd Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLat": 24.37299,
+          "PositionLon": 120.607261
+        },
+        "StationID": "2555",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21677",
+        "StopID": "21677",
+        "StopName": {
+          "Zh_tw": "西安里(東西七路)",
+          "En": "Xian Village(Dongxi 7th Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLat": 24.373762,
+          "PositionLon": 120.603522
+        },
+        "StationID": "2472",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22418",
+        "StopID": "22418",
+        "StopName": {
+          "Zh_tw": "南北七東西七路口",
+          "En": "Nanbei 7rd Dongxi 7th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLat": 24.375256,
+          "PositionLon": 120.602342
+        },
+        "StationID": "6315",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22419",
+        "StopID": "22419",
+        "StopName": {
+          "Zh_tw": "南北七東西六路口",
+          "En": "Nanbei 7rd Dongxi 6th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLat": 24.377233,
+          "PositionLon": 120.602819
+        },
+        "StationID": "395",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21678",
+        "StopID": "21678",
+        "StopName": {
+          "Zh_tw": "福住里",
+          "En": "Fuzhu Village"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLat": 24.379838,
+          "PositionLon": 120.603467
+        },
+        "StationID": "3731",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21679",
+        "StopID": "21679",
+        "StopName": {
+          "Zh_tw": "南北七東西四路口",
+          "En": "Nanbei 7th-Dongxi 4th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLat": 24.38239,
+          "PositionLon": 120.6040785
+        },
+        "StationID": "3729",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21680",
+        "StopID": "21680",
+        "StopName": {
+          "Zh_tw": "永安國小(東西四路)",
+          "En": "Yongan Elementary School(Dongxi 4th Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLat": 24.382107,
+          "PositionLon": 120.606543
+        },
+        "StationID": "3727",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21681",
+        "StopID": "21681",
+        "StopName": {
+          "Zh_tw": "東西四路200巷口",
+          "En": "Dongxi 4th Rd. 200th Lane"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLat": 24.38157,
+          "PositionLon": 120.609101
+        },
+        "StationID": "3725",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21682",
+        "StopID": "21682",
+        "StopName": {
+          "Zh_tw": "靖安宮",
+          "En": "Jingan Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLat": 24.381015,
+          "PositionLon": 120.611655
+        },
+        "StationID": "3723",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG15268",
+        "StopID": "15268",
+        "StopName": {
+          "Zh_tw": "東西四路141巷口",
+          "En": "Dongxi 4th Road 141st Lane"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLat": 24.380748,
+          "PositionLon": 120.613049
+        },
+        "StationID": "10200",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21683",
+        "StopID": "21683",
+        "StopName": {
+          "Zh_tw": "東西四南北五路口",
+          "En": "Dongxi 4th-Nanbei 5th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLat": 24.38028,
+          "PositionLon": 120.615426
+        },
+        "StationID": "3721",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21684",
+        "StopID": "21684",
+        "StopName": {
+          "Zh_tw": "東西四路76巷口",
+          "En": "Dongxi 4rd 76th Lane"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLat": 24.379425,
+          "PositionLon": 120.619527
+        },
+        "StationID": "2469",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22420",
+        "StopID": "22420",
+        "StopName": {
+          "Zh_tw": "東西四南北四路口",
+          "En": "Dongxi 4th Nanbei 4rd Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLat": 24.379105,
+          "PositionLon": 120.62105
+        },
+        "StationID": "6569",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22421",
+        "StopID": "22421",
+        "StopName": {
+          "Zh_tw": "南北四東西五路口",
+          "En": "Nanbei 4rd Dongxi 5th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLat": 24.376681,
+          "PositionLon": 120.620804
+        },
+        "StationID": "6325",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21685",
+        "StopID": "21685",
+        "StopName": {
+          "Zh_tw": "南北四東西六路口",
+          "En": "Nanbei 4rd Dongxi 6th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 34,
+        "StopPosition": {
+          "PositionLat": 24.373537,
+          "PositionLon": 120.620023
+        },
+        "StationID": "6229",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22422",
+        "StopID": "22422",
+        "StopName": {
+          "Zh_tw": "南北四東西七路口",
+          "En": "Nanbei 4rd Dongxi 7th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 35,
+        "StopPosition": {
+          "PositionLat": 24.371282,
+          "PositionLon": 120.619476
+        },
+        "StationID": "6330",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21686",
+        "StopID": "21686",
+        "StopName": {
+          "Zh_tw": "東西七路一段309巷口",
+          "En": "Dongxi 7th Road Sec.1 309th Lane"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 36,
+        "StopPosition": {
+          "PositionLat": 24.36987,
+          "PositionLon": 120.622139
+        },
+        "StationID": "2258",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21687",
+        "StopID": "21687",
+        "StopName": {
+          "Zh_tw": "東西七南北三路口",
+          "En": "Dongxi 7th Nanbei 3rd Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 37,
+        "StopPosition": {
+          "PositionLat": 24.36933,
+          "PositionLon": 120.624797
+        },
+        "StationID": "6297",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21688",
+        "StopID": "21688",
+        "StopName": {
+          "Zh_tw": "東西七路一段",
+          "En": "Dongxi 7th Road Sec.1"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 38,
+        "StopPosition": {
+          "PositionLat": 24.368335,
+          "PositionLon": 120.629427
+        },
+        "StationID": "5052",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21689",
+        "StopID": "21689",
+        "StopName": {
+          "Zh_tw": "東西七路一段166巷口",
+          "En": "Dongxi 7th Road Sec.1 166th Lane"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 39,
+        "StopPosition": {
+          "PositionLat": 24.36743,
+          "PositionLon": 120.63376
+        },
+        "StationID": "2433",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21690",
+        "StopID": "21690",
+        "StopName": {
+          "Zh_tw": "東西七南北一路口",
+          "En": "Dongxi 7th Nanbei 1rd Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 40,
+        "StopPosition": {
+          "PositionLat": 24.366767,
+          "PositionLon": 120.636996
+        },
+        "StationID": "2098",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21691",
+        "StopID": "21691",
+        "StopName": {
+          "Zh_tw": "東西七路一段38巷口",
+          "En": "Dongxi 7th Road Sec.1 38th Lane"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 41,
+        "StopPosition": {
+          "PositionLat": 24.366183,
+          "PositionLon": 120.639855
+        },
+        "StationID": "5737",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21692",
+        "StopID": "21692",
+        "StopName": {
+          "Zh_tw": "鐵砧山(中山路)",
+          "En": "Tiezhen Mountain(Zhongshan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 42,
+        "StopPosition": {
+          "PositionLat": 24.361113165982,
+          "PositionLon": 120.63775766576
+        },
+        "StationID": "1911",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21693",
+        "StopID": "21693",
+        "StopName": {
+          "Zh_tw": "頂店",
+          "En": "Dingdian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 43,
+        "StopPosition": {
+          "PositionLat": 24.356314,
+          "PositionLon": 120.633394
+        },
+        "StationID": "1909",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21694",
+        "StopID": "21694",
+        "StopName": {
+          "Zh_tw": "永信藥品頂店工廠",
+          "En": "YUNGSHIN PHARM IND. CO.LTD Dingdian Factory"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 44,
+        "StopPosition": {
+          "PositionLat": 24.354027,
+          "PositionLon": 120.630448
+        },
+        "StationID": "290",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21695",
+        "StopID": "21695",
+        "StopName": {
+          "Zh_tw": "大同診所",
+          "En": "Datong Clinic"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 45,
+        "StopPosition": {
+          "PositionLat": 24.351747563027,
+          "PositionLon": 120.62799591049
+        },
+        "StationID": "1907",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21696",
+        "StopID": "21696",
+        "StopName": {
+          "Zh_tw": "大甲郵局",
+          "En": "Dajia Post Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 46,
+        "StopPosition": {
+          "PositionLat": 24.347358,
+          "PositionLon": 120.62768
+        },
+        "StationID": "646",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21697",
+        "StopID": "21697",
+        "StopName": {
+          "Zh_tw": "大甲車站(中山路)",
+          "En": "Dajia Station(Zhongshan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 47,
+        "StopPosition": {
+          "PositionLat": 24.345071,
+          "PositionLon": 120.626855
+        },
+        "StationID": "61",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21698",
+        "StopID": "21698",
+        "StopName": {
+          "Zh_tw": "大甲",
+          "En": "Dajia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 48,
+        "StopPosition": {
+          "PositionLat": 24.343169891322,
+          "PositionLon": 120.62549158986
+        },
+        "StationID": "134",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21699",
+        "StopID": "21699",
+        "StopName": {
+          "Zh_tw": "南陽里(中山路)",
+          "En": "Nanyang Village(Zhongshan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 49,
+        "StopPosition": {
+          "PositionLat": 24.342786,
+          "PositionLon": 120.624014
+        },
+        "StationID": "1905",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21700",
+        "StopID": "21700",
+        "StopName": {
+          "Zh_tw": "大甲高中(水源路)",
+          "En": "Dajia Senior High School(Shuiyuan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 50,
+        "StopPosition": {
+          "PositionLat": 24.341906,
+          "PositionLon": 120.622701
+        },
+        "StationID": "3",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21701",
+        "StopID": "21701",
+        "StopName": {
+          "Zh_tw": "中正紀念館",
+          "En": "Zhongzheng Memorial Hall"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 51,
+        "StopPosition": {
+          "PositionLat": 24.340252,
+          "PositionLon": 120.626227
+        },
+        "StationID": "10622",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21702",
+        "StopID": "21702",
+        "StopName": {
+          "Zh_tw": "致用高中",
+          "En": "Chih-Yung Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 52,
+        "StopPosition": {
+          "PositionLat": 24.340186,
+          "PositionLon": 120.630414
+        },
+        "StationID": "2591",
+        "LocationCityCode": "TXG"
+      }
+    ]
+  },
+  {
+    "RouteUID": "TXG661",
+    "RouteID": "661",
+    "RouteName": {
+      "Zh_tw": "661",
+      "En": "661"
+    },
+    "Operators": [
+      {
+        "OperatorID": "24",
+        "OperatorName": {
+          "Zh_tw": "建明客運",
+          "En": "Free Go Bus Co., Ltd."
+        },
+        "OperatorCode": "JianMingBus",
+        "OperatorNo": "0906"
+      }
+    ],
+    "SubRouteUID": "TXG661",
+    "SubRouteID": "661",
+    "SubRouteName": {
+      "Zh_tw": "661",
+      "En": "661"
+    },
+    "Direction": 1,
+    "CityCode": "TXG",
+    "Stops": [
+      {
+        "StopUID": "TXG21611",
+        "StopID": "21611",
+        "StopName": {
+          "Zh_tw": "致用高中",
+          "En": "Chih-Yung Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 24.340415,
+          "PositionLon": 120.629362
+        },
+        "StationID": "2592",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21612",
+        "StopID": "21612",
+        "StopName": {
+          "Zh_tw": "中正紀念館",
+          "En": "Zhongzheng Memorial Hall"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.340252,
+          "PositionLon": 120.626227
+        },
+        "StationID": "10623",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21613",
+        "StopID": "21613",
+        "StopName": {
+          "Zh_tw": "大甲高中(水源路)",
+          "En": "Dajia Senior High School(Shuiyuan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.34187,
+          "PositionLon": 120.622831
+        },
+        "StationID": "4",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21614",
+        "StopID": "21614",
+        "StopName": {
+          "Zh_tw": "南陽里(中山路)",
+          "En": "Nanyang Village(Zhongshan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 24.342771,
+          "PositionLon": 120.624191
+        },
+        "StationID": "1906",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21615",
+        "StopID": "21615",
+        "StopName": {
+          "Zh_tw": "大甲",
+          "En": "Dajia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 24.343072,
+          "PositionLon": 120.625472
+        },
+        "StationID": "132",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21616",
+        "StopID": "21616",
+        "StopName": {
+          "Zh_tw": "大甲車站(中山路)",
+          "En": "Dajia Station(Zhongshan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 24.345021,
+          "PositionLon": 120.626922
+        },
+        "StationID": "6957",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21617",
+        "StopID": "21617",
+        "StopName": {
+          "Zh_tw": "大甲郵局",
+          "En": "Dajia Post Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 24.347747,
+          "PositionLon": 120.627696
+        },
+        "StationID": "647",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21618",
+        "StopID": "21618",
+        "StopName": {
+          "Zh_tw": "大同診所",
+          "En": "Datong Clinic"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 24.351704,
+          "PositionLon": 120.628074
+        },
+        "StationID": "1908",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21619",
+        "StopID": "21619",
+        "StopName": {
+          "Zh_tw": "永信藥品頂店工廠",
+          "En": "YUNGSHIN PHARM IND. CO.LTD Dingdian Factory"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 24.354468,
+          "PositionLon": 120.63120033799
+        },
+        "StationID": "289",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21620",
+        "StopID": "21620",
+        "StopName": {
+          "Zh_tw": "頂店",
+          "En": "Dingdian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 24.356109,
+          "PositionLon": 120.633171
+        },
+        "StationID": "1910",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21621",
+        "StopID": "21621",
+        "StopName": {
+          "Zh_tw": "鐵砧山(中山路)",
+          "En": "Tiezhen Mountain(Zhongshan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 24.3611036664,
+          "PositionLon": 120.63785916671
+        },
+        "StationID": "1912",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21622",
+        "StopID": "21622",
+        "StopName": {
+          "Zh_tw": "東西七路一段38巷口",
+          "En": "Dongxi 7th Road Sec.1 38th Lane"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLat": 24.366222,
+          "PositionLon": 120.639807
+        },
+        "StationID": "5738",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21623",
+        "StopID": "21623",
+        "StopName": {
+          "Zh_tw": "東西七南北一路口",
+          "En": "Dongxi 7th Nanbei 1rd Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLat": 24.366786,
+          "PositionLon": 120.637063
+        },
+        "StationID": "2099",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21624",
+        "StopID": "21624",
+        "StopName": {
+          "Zh_tw": "東西七路一段166巷口",
+          "En": "Dongxi 7th Road Sec.1 166th Lane"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLat": 24.367509,
+          "PositionLon": 120.633515
+        },
+        "StationID": "2432",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21625",
+        "StopID": "21625",
+        "StopName": {
+          "Zh_tw": "東西七路一段",
+          "En": "Dongxi 7th Road Sec.1"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLat": 24.368399,
+          "PositionLon": 120.629301
+        },
+        "StationID": "5051",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21626",
+        "StopID": "21626",
+        "StopName": {
+          "Zh_tw": "東西七南北三路口",
+          "En": "Dongxi 7th Nanbei 3rd Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLat": 24.36944,
+          "PositionLon": 120.624395
+        },
+        "StationID": "6298",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21627",
+        "StopID": "21627",
+        "StopName": {
+          "Zh_tw": "東西七路一段309巷口",
+          "En": "Dongxi 7th Road Sec.1 309th Lane"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLat": 24.369923,
+          "PositionLon": 120.622024
+        },
+        "StationID": "2259",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22423",
+        "StopID": "22423",
+        "StopName": {
+          "Zh_tw": "南北四東西七路口",
+          "En": "Nanbei 4rd Dongxi 7th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLat": 24.371282,
+          "PositionLon": 120.619497
+        },
+        "StationID": "6331",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21628",
+        "StopID": "21628",
+        "StopName": {
+          "Zh_tw": "南北四東西六路口",
+          "En": "Nanbei 4rd Dongxi 6th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLat": 24.374493,
+          "PositionLon": 120.620341
+        },
+        "StationID": "6230",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22424",
+        "StopID": "22424",
+        "StopName": {
+          "Zh_tw": "南北四東西五路口",
+          "En": "Nanbei 4rd Dongxi 5th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLat": 24.376708,
+          "PositionLon": 120.620841
+        },
+        "StationID": "6324",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22425",
+        "StopID": "22425",
+        "StopName": {
+          "Zh_tw": "東西四南北四路口",
+          "En": "Dongxi 4th Nanbei 4rd Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLat": 24.379141,
+          "PositionLon": 120.621018
+        },
+        "StationID": "6570",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21629",
+        "StopID": "21629",
+        "StopName": {
+          "Zh_tw": "東西四路76巷口",
+          "En": "Dongxi 4rd 76th Lane"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLat": 24.379461,
+          "PositionLon": 120.619495
+        },
+        "StationID": "2470",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21630",
+        "StopID": "21630",
+        "StopName": {
+          "Zh_tw": "東西四南北五路口",
+          "En": "Dongxi 4th-Nanbei 5th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLat": 24.380336,
+          "PositionLon": 120.615321
+        },
+        "StationID": "3720",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG15267",
+        "StopID": "15267",
+        "StopName": {
+          "Zh_tw": "東西四路141巷口",
+          "En": "Dongxi 4th Road 141st Lane"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLat": 24.380776,
+          "PositionLon": 120.613071
+        },
+        "StationID": "10199",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21631",
+        "StopID": "21631",
+        "StopName": {
+          "Zh_tw": "靖安宮",
+          "En": "Jingan Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLat": 24.3810665,
+          "PositionLon": 120.6116905
+        },
+        "StationID": "3722",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21632",
+        "StopID": "21632",
+        "StopName": {
+          "Zh_tw": "東西四路200巷口",
+          "En": "Dongxi 4th Rd. 200th Lane"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLat": 24.381590499559,
+          "PositionLon": 120.60915999857
+        },
+        "StationID": "3724",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21633",
+        "StopID": "21633",
+        "StopName": {
+          "Zh_tw": "永安國小(東西四路)",
+          "En": "Yongan Elementary School(Dongxi 4th Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLat": 24.382187,
+          "PositionLon": 120.606654
+        },
+        "StationID": "3726",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21634",
+        "StopID": "21634",
+        "StopName": {
+          "Zh_tw": "南北七東西四路口",
+          "En": "Nanbei 7th-Dongxi 4th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLat": 24.382364,
+          "PositionLon": 120.603994
+        },
+        "StationID": "3728",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21635",
+        "StopID": "21635",
+        "StopName": {
+          "Zh_tw": "福住里",
+          "En": "Fuzhu Village"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLat": 24.379894499999,
+          "PositionLon": 120.6034155
+        },
+        "StationID": "3730",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22426",
+        "StopID": "22426",
+        "StopName": {
+          "Zh_tw": "南北七東西六路口",
+          "En": "Nanbei 7rd Dongxi 6th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLat": 24.377263,
+          "PositionLon": 120.602782
+        },
+        "StationID": "394",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22427",
+        "StopID": "22427",
+        "StopName": {
+          "Zh_tw": "南北七東西七路口",
+          "En": "Nanbei 7rd Dongxi 7th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLat": 24.375262,
+          "PositionLon": 120.602283
+        },
+        "StationID": "6314",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21636",
+        "StopID": "21636",
+        "StopName": {
+          "Zh_tw": "西安里(東西七路)",
+          "En": "Xian Village(Dongxi 7th Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLat": 24.373691,
+          "PositionLon": 120.603653
+        },
+        "StationID": "2471",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21637",
+        "StopID": "21637",
+        "StopName": {
+          "Zh_tw": "東西七南北六路口",
+          "En": "Dongxi 7th Nanbei 6rd Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLat": 24.37299,
+          "PositionLon": 120.607105
+        },
+        "StationID": "2556",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21638",
+        "StopID": "21638",
+        "StopName": {
+          "Zh_tw": "東西七路二段",
+          "En": "Dongxi 7th Road Sec.2"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 34,
+        "StopPosition": {
+          "PositionLat": 24.372401,
+          "PositionLon": 120.610018
+        },
+        "StationID": "84",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21639",
+        "StopID": "21639",
+        "StopName": {
+          "Zh_tw": "紀厝",
+          "En": "Jicuo"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 35,
+        "StopPosition": {
+          "PositionLat": 24.371507,
+          "PositionLon": 120.613315
+        },
+        "StationID": "5056",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21640",
+        "StopID": "21640",
+        "StopName": {
+          "Zh_tw": "東西七路一段500巷口",
+          "En": "Dongxi 7th Road Sec.1 500th Lane"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 36,
+        "StopPosition": {
+          "PositionLat": 24.371062,
+          "PositionLon": 120.616493
+        },
+        "StationID": "6154",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21641",
+        "StopID": "21641",
+        "StopName": {
+          "Zh_tw": "東西七路一段438巷口",
+          "En": "Dongxi 7th Road Sec.1 438th Lane"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 37,
+        "StopPosition": {
+          "PositionLat": 24.370788,
+          "PositionLon": 120.618733
+        },
+        "StationID": "457",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21642",
+        "StopID": "21642",
+        "StopName": {
+          "Zh_tw": "廣安宮",
+          "En": "Guang'an Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 38,
+        "StopPosition": {
+          "PositionLat": 24.36733,
+          "PositionLon": 120.61967
+        },
+        "StationID": "6562",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21643",
+        "StopID": "21643",
+        "StopName": {
+          "Zh_tw": "東西八南北三路口",
+          "En": "Dongxi 8th Nanbei 3rd Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 39,
+        "StopPosition": {
+          "PositionLat": 24.366549,
+          "PositionLon": 120.623848
+        },
+        "StationID": "6196",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21644",
+        "StopID": "21644",
+        "StopName": {
+          "Zh_tw": "德元宮",
+          "En": "Deyuan Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 40,
+        "StopPosition": {
+          "PositionLat": 24.362789,
+          "PositionLon": 120.623601
+        },
+        "StationID": "6323",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21645",
+        "StopID": "21645",
+        "StopName": {
+          "Zh_tw": "下社尾",
+          "En": "Xiashewei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 41,
+        "StopPosition": {
+          "PositionLat": 24.360242,
+          "PositionLon": 120.622511
+        },
+        "StationID": "5155",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21646",
+        "StopID": "21646",
+        "StopName": {
+          "Zh_tw": "社尾玉橋",
+          "En": "Sheweiyu Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 42,
+        "StopPosition": {
+          "PositionLat": 24.35825,
+          "PositionLon": 120.62196
+        },
+        "StationID": "6317",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21647",
+        "StopID": "21647",
+        "StopName": {
+          "Zh_tw": "文武公園",
+          "En": "Wenwu Park"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 43,
+        "StopPosition": {
+          "PositionLat": 24.35509,
+          "PositionLon": 120.62206
+        },
+        "StationID": "4722",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21648",
+        "StopID": "21648",
+        "StopName": {
+          "Zh_tw": "大甲國中",
+          "En": "Dajia Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 44,
+        "StopPosition": {
+          "PositionLat": 24.352996,
+          "PositionLon": 120.622799
+        },
+        "StationID": "645",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21649",
+        "StopID": "21649",
+        "StopName": {
+          "Zh_tw": "大甲區公所",
+          "En": "Dajia District Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 45,
+        "StopPosition": {
+          "PositionLat": 24.349785,
+          "PositionLon": 120.622326
+        },
+        "StationID": "2325",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21650",
+        "StopID": "21650",
+        "StopName": {
+          "Zh_tw": "文昌祠",
+          "En": "Wenchang Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 46,
+        "StopPosition": {
+          "PositionLat": 24.347323,
+          "PositionLon": 120.622692
+        },
+        "StationID": "1596",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21651",
+        "StopID": "21651",
+        "StopName": {
+          "Zh_tw": "大甲車站(中山路)",
+          "En": "Dajia Station(Zhongshan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 47,
+        "StopPosition": {
+          "PositionLat": 24.345071,
+          "PositionLon": 120.626855
+        },
+        "StationID": "61",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21652",
+        "StopID": "21652",
+        "StopName": {
+          "Zh_tw": "大甲",
+          "En": "Dajia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 48,
+        "StopPosition": {
+          "PositionLat": 24.343169891322,
+          "PositionLon": 120.62549158986
+        },
+        "StationID": "134",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21653",
+        "StopID": "21653",
+        "StopName": {
+          "Zh_tw": "南陽里(中山路)",
+          "En": "Nanyang Village(Zhongshan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 49,
+        "StopPosition": {
+          "PositionLat": 24.342786,
+          "PositionLon": 120.624014
+        },
+        "StationID": "1905",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21654",
+        "StopID": "21654",
+        "StopName": {
+          "Zh_tw": "大甲高中(水源路)",
+          "En": "Dajia Senior High School(Shuiyuan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 50,
+        "StopPosition": {
+          "PositionLat": 24.341906,
+          "PositionLon": 120.622701
+        },
+        "StationID": "3",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21655",
+        "StopID": "21655",
+        "StopName": {
+          "Zh_tw": "中正紀念館",
+          "En": "Zhongzheng Memorial Hall"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 51,
+        "StopPosition": {
+          "PositionLat": 24.340252,
+          "PositionLon": 120.626227
+        },
+        "StationID": "10622",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG21656",
+        "StopID": "21656",
+        "StopName": {
+          "Zh_tw": "致用高中",
+          "En": "Chih-Yung Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 52,
+        "StopPosition": {
+          "PositionLat": 24.340186,
+          "PositionLon": 120.630414
+        },
+        "StationID": "2591",
+        "LocationCityCode": "TXG"
+      }
+    ]
+  },
+  {
+    "RouteUID": "TXG662",
+    "RouteID": "662",
+    "RouteName": {
+      "Zh_tw": "662",
+      "En": "662"
+    },
+    "Operators": [
+      {
+        "OperatorID": "24",
+        "OperatorName": {
+          "Zh_tw": "建明客運",
+          "En": "Free Go Bus Co., Ltd."
+        },
+        "OperatorCode": "JianMingBus",
+        "OperatorNo": "0906"
+      }
+    ],
+    "SubRouteUID": "TXG662",
+    "SubRouteID": "662",
+    "SubRouteName": {
+      "Zh_tw": "662",
+      "En": "662"
+    },
+    "Direction": 0,
+    "CityCode": "TXG",
+    "Stops": [
+      {
+        "StopUID": "TXG22007",
+        "StopID": "22007",
+        "StopName": {
+          "Zh_tw": "大甲高中(水源路)",
+          "En": "Dajia Senior High School(Shuiyuan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 24.34187,
+          "PositionLon": 120.622831
+        },
+        "StationID": "4",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22008",
+        "StopID": "22008",
+        "StopName": {
+          "Zh_tw": "南陽里(中山路)",
+          "En": "Nanyang Village(Zhongshan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.342771,
+          "PositionLon": 120.624191
+        },
+        "StationID": "1906",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22009",
+        "StopID": "22009",
+        "StopName": {
+          "Zh_tw": "大甲",
+          "En": "Dajia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.343072,
+          "PositionLon": 120.625472
+        },
+        "StationID": "132",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22010",
+        "StopID": "22010",
+        "StopName": {
+          "Zh_tw": "大甲車站(中山路)",
+          "En": "Dajia Station(Zhongshan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 24.345021,
+          "PositionLon": 120.626922
+        },
+        "StationID": "6957",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22011",
+        "StopID": "22011",
+        "StopName": {
+          "Zh_tw": "大甲郵局",
+          "En": "Dajia Post Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 24.347747,
+          "PositionLon": 120.627696
+        },
+        "StationID": "647",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22012",
+        "StopID": "22012",
+        "StopName": {
+          "Zh_tw": "大同診所",
+          "En": "Datong Clinic"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 24.351704,
+          "PositionLon": 120.628074
+        },
+        "StationID": "1908",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22013",
+        "StopID": "22013",
+        "StopName": {
+          "Zh_tw": "永信藥品頂店工廠",
+          "En": "YUNGSHIN PHARM IND. CO.LTD Dingdian Factory"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 24.354468,
+          "PositionLon": 120.63120033799
+        },
+        "StationID": "289",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22014",
+        "StopID": "22014",
+        "StopName": {
+          "Zh_tw": "頂店",
+          "En": "Dingdian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 24.356109,
+          "PositionLon": 120.633171
+        },
+        "StationID": "1910",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22015",
+        "StopID": "22015",
+        "StopName": {
+          "Zh_tw": "鐵砧山(中山路)",
+          "En": "Tiezhen Mountain(Zhongshan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 24.3611036664,
+          "PositionLon": 120.63785916671
+        },
+        "StationID": "1912",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22016",
+        "StopID": "22016",
+        "StopName": {
+          "Zh_tw": "大安溪",
+          "En": "Da'an River"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 24.366083,
+          "PositionLon": 120.64176
+        },
+        "StationID": "664",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22017",
+        "StopID": "22017",
+        "StopName": {
+          "Zh_tw": "日南國中",
+          "En": "Rih Nan Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 24.377119,
+          "PositionLon": 120.652824
+        },
+        "StationID": "4440",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22018",
+        "StopID": "22018",
+        "StopName": {
+          "Zh_tw": "日南車站",
+          "En": "Rinan Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLat": 24.378588,
+          "PositionLon": 120.653706
+        },
+        "StationID": "139",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22019",
+        "StopID": "22019",
+        "StopName": {
+          "Zh_tw": "日南",
+          "En": "Rinan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLat": 24.381474,
+          "PositionLon": 120.651543
+        },
+        "StationID": "2158",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22020",
+        "StopID": "22020",
+        "StopName": {
+          "Zh_tw": "明典幼兒園",
+          "En": "Mindian Kindergarten"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLat": 24.384997,
+          "PositionLon": 120.652113
+        },
+        "StationID": "2205",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22021",
+        "StopID": "22021",
+        "StopName": {
+          "Zh_tw": "經國黎明路口",
+          "En": "Jingguo-Liming Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLat": 24.389101,
+          "PositionLon": 120.651024
+        },
+        "StationID": "1914",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22022",
+        "StopID": "22022",
+        "StopName": {
+          "Zh_tw": "永安新村",
+          "En": "Yongan Community"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLat": 24.392443,
+          "PositionLon": 120.649785
+        },
+        "StationID": "1917",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22023",
+        "StopID": "22023",
+        "StopName": {
+          "Zh_tw": "陳家莊",
+          "En": "Chenjiazhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLat": 24.395755043057,
+          "PositionLon": 120.64822449128
+        },
+        "StationID": "366",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22024",
+        "StopID": "22024",
+        "StopName": {
+          "Zh_tw": "打鐵庄",
+          "En": "Datiezhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLat": 24.39766,
+          "PositionLon": 120.6466
+        },
+        "StationID": "1919",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22025",
+        "StopID": "22025",
+        "StopName": {
+          "Zh_tw": "中山幼二路口",
+          "En": "Zhongshan-You 2nd Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLat": 24.400877,
+          "PositionLon": 120.642822
+        },
+        "StationID": "4708",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22026",
+        "StopID": "22026",
+        "StopName": {
+          "Zh_tw": "五里牌(順帆路)",
+          "En": "Wulipai(Shunfan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLat": 24.405051,
+          "PositionLon": 120.64129
+        },
+        "StationID": "2587",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22027",
+        "StopID": "22027",
+        "StopName": {
+          "Zh_tw": "順帆路15巷口",
+          "En": "Shunfan Road 15th Lane"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLat": 24.40689,
+          "PositionLon": 120.63985
+        },
+        "StationID": "5744",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22028",
+        "StopID": "22028",
+        "StopName": {
+          "Zh_tw": "巨大公司",
+          "En": "Juda Company"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLat": 24.4088,
+          "PositionLon": 120.63787
+        },
+        "StationID": "4961",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22029",
+        "StopID": "22029",
+        "StopName": {
+          "Zh_tw": "碾米廠",
+          "En": "Rice Miller"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLat": 24.409055004947,
+          "PositionLon": 120.63599302626
+        },
+        "StationID": "4520",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22030",
+        "StopID": "22030",
+        "StopName": {
+          "Zh_tw": "三鄰路口",
+          "En": "3rd. Neighborhood"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLat": 24.411442,
+          "PositionLon": 120.633592
+        },
+        "StationID": "427",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22031",
+        "StopID": "22031",
+        "StopName": {
+          "Zh_tw": "林厝",
+          "En": "Lincuo"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLat": 24.415205,
+          "PositionLon": 120.632326
+        },
+        "StationID": "559",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22032",
+        "StopID": "22032",
+        "StopName": {
+          "Zh_tw": "西岐里活動中心",
+          "En": "Xiqi Village Activity Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLat": 24.417223,
+          "PositionLon": 120.631033
+        },
+        "StationID": "5708",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22033",
+        "StopID": "22033",
+        "StopName": {
+          "Zh_tw": "西岐國小",
+          "En": "Xiqi Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLat": 24.420043,
+          "PositionLon": 120.62866
+        },
+        "StationID": "4516",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22034",
+        "StopID": "22034",
+        "StopName": {
+          "Zh_tw": "羅厝(順帆路121巷)",
+          "En": "Luocuo(Shunfan Road 121st Lane)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLat": 24.42194,
+          "PositionLon": 120.62585
+        },
+        "StationID": "4866",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG11338",
+        "StopID": "11338",
+        "StopName": {
+          "Zh_tw": "西岐里8鄰",
+          "En": "Xiqi Village 8th Neighborhood"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLat": 24.422865,
+          "PositionLon": 120.623691
+        },
+        "StationID": "6897",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22035",
+        "StopID": "22035",
+        "StopName": {
+          "Zh_tw": "潘厝",
+          "En": "Pancuo"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLat": 24.4234,
+          "PositionLon": 120.62153
+        },
+        "StationID": "81",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22036",
+        "StopID": "22036",
+        "StopName": {
+          "Zh_tw": "海尾",
+          "En": "Haiwei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLat": 24.424947,
+          "PositionLon": 120.618902
+        },
+        "StationID": "6492",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22037",
+        "StopID": "22037",
+        "StopName": {
+          "Zh_tw": "松柏漁港",
+          "En": "Songbo Fishing Port"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLat": 24.427646,
+          "PositionLon": 120.619304
+        },
+        "StationID": "5509",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22038",
+        "StopID": "22038",
+        "StopName": {
+          "Zh_tw": "福德里",
+          "En": "Fude Village"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLat": 24.428633,
+          "PositionLon": 120.623402
+        },
+        "StationID": "6541",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22039",
+        "StopID": "22039",
+        "StopName": {
+          "Zh_tw": "船頭埔庄內",
+          "En": "Chuantoupu Zhuangnei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 34,
+        "StopPosition": {
+          "PositionLat": 24.43011,
+          "PositionLon": 120.6247
+        },
+        "StationID": "5460",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22040",
+        "StopID": "22040",
+        "StopName": {
+          "Zh_tw": "船頭埔",
+          "En": "Chuantoupu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 35,
+        "StopPosition": {
+          "PositionLat": 24.42979,
+          "PositionLon": 120.626037
+        },
+        "StationID": "2528",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22041",
+        "StopID": "22041",
+        "StopName": {
+          "Zh_tw": "番仔寮(順帆路)",
+          "En": "Fanziliao(Shunfan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 36,
+        "StopPosition": {
+          "PositionLat": 24.42855,
+          "PositionLon": 120.6284
+        },
+        "StationID": "2447",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22042",
+        "StopID": "22042",
+        "StopName": {
+          "Zh_tw": "順帆南北三路口",
+          "En": "Shunfan Nanbei 3rd Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 37,
+        "StopPosition": {
+          "PositionLat": 24.426948,
+          "PositionLon": 120.630073
+        },
+        "StationID": "2232",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22043",
+        "StopID": "22043",
+        "StopName": {
+          "Zh_tw": "榕樹公",
+          "En": "Rongshugong"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 38,
+        "StopPosition": {
+          "PositionLat": 24.42546,
+          "PositionLon": 120.63263
+        },
+        "StationID": "6515",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22044",
+        "StopID": "22044",
+        "StopName": {
+          "Zh_tw": "銅安里長壽會館",
+          "En": "Tongan Village Longevity Hall"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 39,
+        "StopPosition": {
+          "PositionLat": 24.42389,
+          "PositionLon": 120.63313
+        },
+        "StationID": "6578",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22045",
+        "StopID": "22045",
+        "StopName": {
+          "Zh_tw": "下庄(雜貨店)",
+          "En": "Xiazhuang(Grocery Store)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 40,
+        "StopPosition": {
+          "PositionLat": 24.424279,
+          "PositionLon": 120.634505
+        },
+        "StationID": "2411",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22046",
+        "StopID": "22046",
+        "StopName": {
+          "Zh_tw": "銅安里六鄰",
+          "En": "Tongan Village 6th Neighborhood"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 41,
+        "StopPosition": {
+          "PositionLat": 24.426522,
+          "PositionLon": 120.637232
+        },
+        "StationID": "6399",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG11589",
+        "StopID": "11589",
+        "StopName": {
+          "Zh_tw": "南房裡(西南北一路)",
+          "En": "Nanfangli(Xinan N. 1st Intersection)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 42,
+        "StopPosition": {
+          "PositionLat": 24.428452,
+          "PositionLon": 120.639469
+        },
+        "StationID": "6689",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG11591",
+        "StopID": "11591",
+        "StopName": {
+          "Zh_tw": "房裡七鄰",
+          "En": "Fangli 7th Neighborhood"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 43,
+        "StopPosition": {
+          "PositionLat": 24.430761,
+          "PositionLon": 120.642254
+        },
+        "StationID": "6895",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG11593",
+        "StopID": "11593",
+        "StopName": {
+          "Zh_tw": "文苑國小",
+          "En": "Wen-Yuan Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 44,
+        "StopPosition": {
+          "PositionLat": 24.43488,
+          "PositionLon": 120.645693
+        },
+        "StationID": "5101",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG11595",
+        "StopID": "11595",
+        "StopName": {
+          "Zh_tw": "西勢里(忠信路)",
+          "En": "Xishi Village(Zhongxin Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 45,
+        "StopPosition": {
+          "PositionLat": 24.438956,
+          "PositionLon": 120.648117
+        },
+        "StationID": "5190",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG11597",
+        "StopID": "11597",
+        "StopName": {
+          "Zh_tw": "苑裡後站",
+          "En": "Yuanli Behind"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 46,
+        "StopPosition": {
+          "PositionLat": 24.443858,
+          "PositionLon": 120.650642
+        },
+        "StationID": "5220",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG11599",
+        "StopID": "11599",
+        "StopName": {
+          "Zh_tw": "北勢庄土地公廟",
+          "En": "Beishizhuang Tudigong Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 47,
+        "StopPosition": {
+          "PositionLat": 24.447078,
+          "PositionLon": 120.652734
+        },
+        "StationID": "5354",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG22052",
+        "StopID": "22052",
+        "StopName": {
+          "Zh_tw": "國立苑裡高中",
+          "En": "National Yuanli Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 48,
+        "StopPosition": {
+          "PositionLat": 24.447228,
+          "PositionLon": 120.654661
+        },
+        "StationID": "2203",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG22051",
+        "StopID": "22051",
+        "StopName": {
+          "Zh_tw": "苑裡站",
+          "En": "Yuanli Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 49,
+        "StopPosition": {
+          "PositionLat": 24.44296,
+          "PositionLon": 120.651579
+        },
+        "StationID": "1020",
+        "LocationCityCode": "MIA"
+      }
+    ]
+  },
+  {
+    "RouteUID": "TXG662",
+    "RouteID": "662",
+    "RouteName": {
+      "Zh_tw": "662",
+      "En": "662"
+    },
+    "Operators": [
+      {
+        "OperatorID": "24",
+        "OperatorName": {
+          "Zh_tw": "建明客運",
+          "En": "Free Go Bus Co., Ltd."
+        },
+        "OperatorCode": "JianMingBus",
+        "OperatorNo": "0906"
+      }
+    ],
+    "SubRouteUID": "TXG662",
+    "SubRouteID": "662",
+    "SubRouteName": {
+      "Zh_tw": "662",
+      "En": "662"
+    },
+    "Direction": 1,
+    "CityCode": "TXG",
+    "Stops": [
+      {
+        "StopUID": "TXG22054",
+        "StopID": "22054",
+        "StopName": {
+          "Zh_tw": "苑裡站",
+          "En": "Yuanli Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 24.442859,
+          "PositionLon": 120.651598
+        },
+        "StationID": "1019",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG22053",
+        "StopID": "22053",
+        "StopName": {
+          "Zh_tw": "國立苑裡高中",
+          "En": "National Yuanli Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.447091,
+          "PositionLon": 120.654591
+        },
+        "StationID": "2204",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG11600",
+        "StopID": "11600",
+        "StopName": {
+          "Zh_tw": "北勢庄土地公廟",
+          "En": "Beishizhuang Tudigong Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.447275,
+          "PositionLon": 120.65265
+        },
+        "StationID": "5353",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG11598",
+        "StopID": "11598",
+        "StopName": {
+          "Zh_tw": "苑裡後站",
+          "En": "Yuanli Behind"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 24.443614,
+          "PositionLon": 120.650347
+        },
+        "StationID": "5191",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG11596",
+        "StopID": "11596",
+        "StopName": {
+          "Zh_tw": "西勢里(忠信路)",
+          "En": "Xishi Village(Zhongxin Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 24.439171,
+          "PositionLon": 120.648028
+        },
+        "StationID": "5185",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG11594",
+        "StopID": "11594",
+        "StopName": {
+          "Zh_tw": "文苑國小",
+          "En": "Wen-Yuan Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 24.435012,
+          "PositionLon": 120.645741
+        },
+        "StationID": "5174",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG11592",
+        "StopID": "11592",
+        "StopName": {
+          "Zh_tw": "房裡七鄰",
+          "En": "Fangli 7th Neighborhood"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 24.43036,
+          "PositionLon": 120.64199
+        },
+        "StationID": "6896",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG11590",
+        "StopID": "11590",
+        "StopName": {
+          "Zh_tw": "南房裡(西南北一路)",
+          "En": "Nanfangli(Xinan N. 1st Intersection)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 24.428496,
+          "PositionLon": 120.639654
+        },
+        "StationID": "6690",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG22059",
+        "StopID": "22059",
+        "StopName": {
+          "Zh_tw": "銅安里六鄰",
+          "En": "Tongan Village 6th Neighborhood"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 24.426448,
+          "PositionLon": 120.637055
+        },
+        "StationID": "6398",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22060",
+        "StopID": "22060",
+        "StopName": {
+          "Zh_tw": "下庄(雜貨店)",
+          "En": "Xiazhuang(Grocery Store)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 24.42432,
+          "PositionLon": 120.63438
+        },
+        "StationID": "2412",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22061",
+        "StopID": "22061",
+        "StopName": {
+          "Zh_tw": "銅安里長壽會館",
+          "En": "Tongan Village Longevity Hall"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 24.42382,
+          "PositionLon": 120.63322
+        },
+        "StationID": "6577",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22062",
+        "StopID": "22062",
+        "StopName": {
+          "Zh_tw": "榕樹公",
+          "En": "Rongshugong"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLat": 24.425441,
+          "PositionLon": 120.63275
+        },
+        "StationID": "6514",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22063",
+        "StopID": "22063",
+        "StopName": {
+          "Zh_tw": "順帆南北三路口",
+          "En": "Shunfan Nanbei 3rd Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLat": 24.42705,
+          "PositionLon": 120.63007
+        },
+        "StationID": "2231",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22064",
+        "StopID": "22064",
+        "StopName": {
+          "Zh_tw": "番仔寮(順帆路)",
+          "En": "Fanziliao(Shunfan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLat": 24.42877,
+          "PositionLon": 120.62831
+        },
+        "StationID": "2446",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22065",
+        "StopID": "22065",
+        "StopName": {
+          "Zh_tw": "船頭埔",
+          "En": "Chuantoupu"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLat": 24.429714,
+          "PositionLon": 120.62591
+        },
+        "StationID": "2529",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22066",
+        "StopID": "22066",
+        "StopName": {
+          "Zh_tw": "船頭埔庄內",
+          "En": "Chuantoupu Zhuangnei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLat": 24.430129,
+          "PositionLon": 120.624694
+        },
+        "StationID": "5459",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22067",
+        "StopID": "22067",
+        "StopName": {
+          "Zh_tw": "福德里",
+          "En": "Fude Village"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLat": 24.42872,
+          "PositionLon": 120.62333
+        },
+        "StationID": "6540",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22068",
+        "StopID": "22068",
+        "StopName": {
+          "Zh_tw": "松柏漁港",
+          "En": "Songbo Fishing Port"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLat": 24.427656,
+          "PositionLon": 120.619094
+        },
+        "StationID": "5510",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22069",
+        "StopID": "22069",
+        "StopName": {
+          "Zh_tw": "海尾",
+          "En": "Haiwei"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLat": 24.42475,
+          "PositionLon": 120.619143
+        },
+        "StationID": "6491",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22070",
+        "StopID": "22070",
+        "StopName": {
+          "Zh_tw": "潘厝",
+          "En": "Pancuo"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLat": 24.423355,
+          "PositionLon": 120.62149
+        },
+        "StationID": "80",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG11339",
+        "StopID": "11339",
+        "StopName": {
+          "Zh_tw": "西岐里8鄰",
+          "En": "Xiqi Village 8th Neighborhood"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLat": 24.422877,
+          "PositionLon": 120.623234
+        },
+        "StationID": "6898",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22071",
+        "StopID": "22071",
+        "StopName": {
+          "Zh_tw": "羅厝(順帆路121巷)",
+          "En": "Luocuo(Shunfan Road 121st Lane)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLat": 24.421878,
+          "PositionLon": 120.625811
+        },
+        "StationID": "4867",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22072",
+        "StopID": "22072",
+        "StopName": {
+          "Zh_tw": "西岐國小",
+          "En": "Xiqi Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLat": 24.420009,
+          "PositionLon": 120.628614
+        },
+        "StationID": "4514",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22073",
+        "StopID": "22073",
+        "StopName": {
+          "Zh_tw": "西岐里活動中心",
+          "En": "Xiqi Village Activity Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLat": 24.417191,
+          "PositionLon": 120.630988
+        },
+        "StationID": "5709",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22074",
+        "StopID": "22074",
+        "StopName": {
+          "Zh_tw": "林厝",
+          "En": "Lincuo"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLat": 24.415152,
+          "PositionLon": 120.632286
+        },
+        "StationID": "558",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22075",
+        "StopID": "22075",
+        "StopName": {
+          "Zh_tw": "三鄰路口",
+          "En": "3rd. Neighborhood"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLat": 24.411492747828,
+          "PositionLon": 120.63343927855
+        },
+        "StationID": "428",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22076",
+        "StopID": "22076",
+        "StopName": {
+          "Zh_tw": "碾米廠",
+          "En": "Rice Miller"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLat": 24.408866662571,
+          "PositionLon": 120.63593717414
+        },
+        "StationID": "4517",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22077",
+        "StopID": "22077",
+        "StopName": {
+          "Zh_tw": "巨大公司",
+          "En": "Juda Company"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLat": 24.408678,
+          "PositionLon": 120.637922
+        },
+        "StationID": "4962",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22078",
+        "StopID": "22078",
+        "StopName": {
+          "Zh_tw": "順帆路15巷口",
+          "En": "Shunfan Road 15th Lane"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLat": 24.40696,
+          "PositionLon": 120.6397
+        },
+        "StationID": "5743",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22079",
+        "StopID": "22079",
+        "StopName": {
+          "Zh_tw": "五里牌(順帆路)",
+          "En": "Wulipai(Shunfan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLat": 24.405028,
+          "PositionLon": 120.641231
+        },
+        "StationID": "2588",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22080",
+        "StopID": "22080",
+        "StopName": {
+          "Zh_tw": "中山幼二路口",
+          "En": "Zhongshan-You 2nd Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLat": 24.399958,
+          "PositionLon": 120.643496
+        },
+        "StationID": "4709",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22081",
+        "StopID": "22081",
+        "StopName": {
+          "Zh_tw": "打鐵庄",
+          "En": "Datiezhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLat": 24.397878,
+          "PositionLon": 120.645942
+        },
+        "StationID": "1918",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22082",
+        "StopID": "22082",
+        "StopName": {
+          "Zh_tw": "陳家莊",
+          "En": "Chenjiazhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLat": 24.395535,
+          "PositionLon": 120.648143
+        },
+        "StationID": "365",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22083",
+        "StopID": "22083",
+        "StopName": {
+          "Zh_tw": "永安新村",
+          "En": "Yongan Community"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 34,
+        "StopPosition": {
+          "PositionLat": 24.391476,
+          "PositionLon": 120.64986
+        },
+        "StationID": "1916",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22084",
+        "StopID": "22084",
+        "StopName": {
+          "Zh_tw": "經國黎明路口",
+          "En": "Jingguo-Liming Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 35,
+        "StopPosition": {
+          "PositionLat": 24.38787,
+          "PositionLon": 120.651169
+        },
+        "StationID": "1915",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22085",
+        "StopID": "22085",
+        "StopName": {
+          "Zh_tw": "明典幼兒園",
+          "En": "Mindian Kindergarten"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 36,
+        "StopPosition": {
+          "PositionLat": 24.384978,
+          "PositionLon": 120.651796
+        },
+        "StationID": "2206",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22087",
+        "StopID": "22087",
+        "StopName": {
+          "Zh_tw": "日南車站",
+          "En": "Rinan Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 37,
+        "StopPosition": {
+          "PositionLat": 24.378531,
+          "PositionLon": 120.653591
+        },
+        "StationID": "140",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22088",
+        "StopID": "22088",
+        "StopName": {
+          "Zh_tw": "日南國中",
+          "En": "Rih Nan Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 38,
+        "StopPosition": {
+          "PositionLat": 24.377284831192,
+          "PositionLon": 120.65282375482
+        },
+        "StationID": "4439",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22089",
+        "StopID": "22089",
+        "StopName": {
+          "Zh_tw": "大安溪",
+          "En": "Da'an River"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 39,
+        "StopPosition": {
+          "PositionLat": 24.366188,
+          "PositionLon": 120.641551
+        },
+        "StationID": "663",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22090",
+        "StopID": "22090",
+        "StopName": {
+          "Zh_tw": "鐵砧山(中山路)",
+          "En": "Tiezhen Mountain(Zhongshan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 40,
+        "StopPosition": {
+          "PositionLat": 24.361113165982,
+          "PositionLon": 120.63775766576
+        },
+        "StationID": "1911",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22091",
+        "StopID": "22091",
+        "StopName": {
+          "Zh_tw": "頂店",
+          "En": "Dingdian"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 41,
+        "StopPosition": {
+          "PositionLat": 24.356314,
+          "PositionLon": 120.633394
+        },
+        "StationID": "1909",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22092",
+        "StopID": "22092",
+        "StopName": {
+          "Zh_tw": "永信藥品頂店工廠",
+          "En": "YUNGSHIN PHARM IND. CO.LTD Dingdian Factory"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 42,
+        "StopPosition": {
+          "PositionLat": 24.354027,
+          "PositionLon": 120.630448
+        },
+        "StationID": "290",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22093",
+        "StopID": "22093",
+        "StopName": {
+          "Zh_tw": "大同診所",
+          "En": "Datong Clinic"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 43,
+        "StopPosition": {
+          "PositionLat": 24.351747563027,
+          "PositionLon": 120.62799591049
+        },
+        "StationID": "1907",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22094",
+        "StopID": "22094",
+        "StopName": {
+          "Zh_tw": "大甲郵局",
+          "En": "Dajia Post Office"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 44,
+        "StopPosition": {
+          "PositionLat": 24.347358,
+          "PositionLon": 120.62768
+        },
+        "StationID": "646",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22095",
+        "StopID": "22095",
+        "StopName": {
+          "Zh_tw": "大甲車站(中山路)",
+          "En": "Dajia Station(Zhongshan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 45,
+        "StopPosition": {
+          "PositionLat": 24.345071,
+          "PositionLon": 120.626855
+        },
+        "StationID": "61",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22096",
+        "StopID": "22096",
+        "StopName": {
+          "Zh_tw": "大甲",
+          "En": "Dajia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 46,
+        "StopPosition": {
+          "PositionLat": 24.343169891322,
+          "PositionLon": 120.62549158986
+        },
+        "StationID": "134",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22097",
+        "StopID": "22097",
+        "StopName": {
+          "Zh_tw": "南陽里(中山路)",
+          "En": "Nanyang Village(Zhongshan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 47,
+        "StopPosition": {
+          "PositionLat": 24.342786,
+          "PositionLon": 120.624014
+        },
+        "StationID": "1905",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG22098",
+        "StopID": "22098",
+        "StopName": {
+          "Zh_tw": "大甲高中(水源路)",
+          "En": "Dajia Senior High School(Shuiyuan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 48,
+        "StopPosition": {
+          "PositionLat": 24.341906,
+          "PositionLon": 120.622701
+        },
+        "StationID": "3",
+        "LocationCityCode": "TXG"
+      }
+    ]
+  },
+  {
+    "RouteUID": "TXG839",
+    "RouteID": "839",
+    "RouteName": {
+      "Zh_tw": "839",
+      "En": "839"
+    },
+    "Operators": [
+      {
+        "OperatorID": "24",
+        "OperatorName": {
+          "Zh_tw": "建明客運",
+          "En": "Free Go Bus Co., Ltd."
+        },
+        "OperatorCode": "JianMingBus",
+        "OperatorNo": "0906"
+      }
+    ],
+    "SubRouteUID": "TXG839",
+    "SubRouteID": "839",
+    "SubRouteName": {
+      "Zh_tw": "839",
+      "En": "839"
+    },
+    "Direction": 0,
+    "CityCode": "TXG",
+    "Stops": [
+      {
+        "StopUID": "TXG23130",
+        "StopID": "23130",
+        "StopName": {
+          "Zh_tw": "泰安車站",
+          "En": "Taian Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 24.331425,
+          "PositionLon": 120.741818
+        },
+        "StationID": "7107",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23131",
+        "StopID": "23131",
+        "StopName": {
+          "Zh_tw": "安眉福美路口",
+          "En": "Anmei-Fumei Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.330496,
+          "PositionLon": 120.736082
+        },
+        "StationID": "3007",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23132",
+        "StopID": "23132",
+        "StopName": {
+          "Zh_tw": "三豐安眉路口",
+          "En": "Sanfeng-Anmei Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.332593,
+          "PositionLon": 120.730059
+        },
+        "StationID": "6861",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23133",
+        "StopID": "23133",
+        "StopName": {
+          "Zh_tw": "中社",
+          "En": "Zhongshe"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 24.334476,
+          "PositionLon": 120.730518
+        },
+        "StationID": "6859",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23134",
+        "StopID": "23134",
+        "StopName": {
+          "Zh_tw": "中路(三豐路)",
+          "En": "Zhonglu(Sanfeng Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 24.339083,
+          "PositionLon": 120.731666
+        },
+        "StationID": "7108",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23135",
+        "StopID": "23135",
+        "StopName": {
+          "Zh_tw": "新店庄",
+          "En": "Xindianzhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 24.34148,
+          "PositionLon": 120.73225
+        },
+        "StationID": "7109",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23136",
+        "StopID": "23136",
+        "StopName": {
+          "Zh_tw": "伯公坑",
+          "En": "Bogongkeng"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 24.357821,
+          "PositionLon": 120.733153
+        },
+        "StationID": "7110",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23137",
+        "StopID": "23137",
+        "StopName": {
+          "Zh_tw": "水門(北堤東路)",
+          "En": "Shuimen(Beidi East Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 24.360748,
+          "PositionLon": 120.712716
+        },
+        "StationID": "7111",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23138",
+        "StopID": "23138",
+        "StopName": {
+          "Zh_tw": "六股庄",
+          "En": "Liuguzhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 24.364153,
+          "PositionLon": 120.684726
+        },
+        "StationID": "4146",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23139",
+        "StopID": "23139",
+        "StopName": {
+          "Zh_tw": "茸仔寮",
+          "En": "Rongzailiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 24.366317,
+          "PositionLon": 120.679305
+        },
+        "StationID": "5739",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23140",
+        "StopID": "23140",
+        "StopName": {
+          "Zh_tw": "幸福里三張犁",
+          "En": "Xingfu Village Sanzhangli"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 24.367866,
+          "PositionLon": 120.67603
+        },
+        "StationID": "4953",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23141",
+        "StopID": "23141",
+        "StopName": {
+          "Zh_tw": "莿仔埔3",
+          "En": "Cizaipu3"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLat": 24.368955,
+          "PositionLon": 120.673777
+        },
+        "StationID": "6731",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23142",
+        "StopID": "23142",
+        "StopName": {
+          "Zh_tw": "莿仔埔2",
+          "En": "Cizaipu2"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLat": 24.3696,
+          "PositionLon": 120.6725
+        },
+        "StationID": "468",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23143",
+        "StopID": "23143",
+        "StopName": {
+          "Zh_tw": "莿仔埔1",
+          "En": "Cizaipu1"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLat": 24.3714,
+          "PositionLon": 120.6689
+        },
+        "StationID": "2602",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23144",
+        "StopID": "23144",
+        "StopName": {
+          "Zh_tw": "六股土地公廟",
+          "En": "Liugu Tudigong Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLat": 24.372206,
+          "PositionLon": 120.667319
+        },
+        "StationID": "2527",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23145",
+        "StopID": "23145",
+        "StopName": {
+          "Zh_tw": "太白里社區發展協會",
+          "En": "Taibai Village Community Development Association"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLat": 24.373334,
+          "PositionLon": 120.665028
+        },
+        "StationID": "4872",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23146",
+        "StopID": "23146",
+        "StopName": {
+          "Zh_tw": "松樹下",
+          "En": "Songshuxia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLat": 24.374824,
+          "PositionLon": 120.662836
+        },
+        "StationID": "5758",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23147",
+        "StopID": "23147",
+        "StopName": {
+          "Zh_tw": "庄中路口",
+          "En": "Zhuangzhong Road"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLat": 24.37753,
+          "PositionLon": 120.659618
+        },
+        "StationID": "2509",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23148",
+        "StopID": "23148",
+        "StopName": {
+          "Zh_tw": "大甲農會肥料倉庫",
+          "En": "Dajia Farmers' Association Fertilizer Warehouse"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLat": 24.379551,
+          "PositionLon": 120.657424
+        },
+        "StationID": "2522",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23149",
+        "StopID": "23149",
+        "StopName": {
+          "Zh_tw": "日南車站",
+          "En": "Rinan Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLat": 24.378531,
+          "PositionLon": 120.653591
+        },
+        "StationID": "140",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23150",
+        "StopID": "23150",
+        "StopName": {
+          "Zh_tw": "日南國中",
+          "En": "Rih Nan Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLat": 24.377284831192,
+          "PositionLon": 120.65282375482
+        },
+        "StationID": "4439",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23151",
+        "StopID": "23151",
+        "StopName": {
+          "Zh_tw": "日南",
+          "En": "Rinan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLat": 24.381474,
+          "PositionLon": 120.651543
+        },
+        "StationID": "2158",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23152",
+        "StopID": "23152",
+        "StopName": {
+          "Zh_tw": "日南公園(慈德路)",
+          "En": "Rinan Park(Cide Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLat": 24.382138000024,
+          "PositionLon": 120.65475449997
+        },
+        "StationID": "2261",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23153",
+        "StopID": "23153",
+        "StopName": {
+          "Zh_tw": "日南公園(中山路)",
+          "En": "Rinan Park(Zhongshan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLat": 24.382021,
+          "PositionLon": 120.65573
+        },
+        "StationID": "224",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23154",
+        "StopID": "23154",
+        "StopName": {
+          "Zh_tw": "番社",
+          "En": "Fanshe"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLat": 24.388222,
+          "PositionLon": 120.655686
+        },
+        "StationID": "3702",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23155",
+        "StopID": "23155",
+        "StopName": {
+          "Zh_tw": "日南國小",
+          "En": "Rinan Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLat": 24.389232,
+          "PositionLon": 120.654578
+        },
+        "StationID": "3700",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23156",
+        "StopID": "23156",
+        "StopName": {
+          "Zh_tw": "黎明中山路口",
+          "En": "Liming- Zhongshan Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLat": 24.392284,
+          "PositionLon": 120.655209
+        },
+        "StationID": "177",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23157",
+        "StopID": "23157",
+        "StopName": {
+          "Zh_tw": "日南陸橋",
+          "En": "Rinan Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLat": 24.395757,
+          "PositionLon": 120.657754
+        },
+        "StationID": "3697",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23158",
+        "StopID": "23158",
+        "StopName": {
+          "Zh_tw": "幼獅幼九路口",
+          "En": "Youshi -You 9th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLat": 24.39928,
+          "PositionLon": 120.65894
+        },
+        "StationID": "3695",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23159",
+        "StopID": "23159",
+        "StopName": {
+          "Zh_tw": "幼獅幼六路口",
+          "En": "Youshi -You 6th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLat": 24.40328,
+          "PositionLon": 120.6544
+        },
+        "StationID": "3689",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23160",
+        "StopID": "23160",
+        "StopName": {
+          "Zh_tw": "幼獅工業區服務中心",
+          "En": "Youth Industrial Park Service Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLat": 24.404991,
+          "PositionLon": 120.652113
+        },
+        "StationID": "797",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23161",
+        "StopID": "23161",
+        "StopName": {
+          "Zh_tw": "華龍國小",
+          "En": "Hualong Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLat": 24.406703,
+          "PositionLon": 120.648857
+        },
+        "StationID": "3687",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23162",
+        "StopID": "23162",
+        "StopName": {
+          "Zh_tw": "幼獅幼一路口",
+          "En": "Youshi -You 1st Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLat": 24.407985,
+          "PositionLon": 120.646266
+        },
+        "StationID": "7112",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23163",
+        "StopID": "23163",
+        "StopName": {
+          "Zh_tw": "新復泉利商店",
+          "En": "Xinfu-Quanli Store"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 34,
+        "StopPosition": {
+          "PositionLat": 24.415093,
+          "PositionLon": 120.650359
+        },
+        "StationID": "7113",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23164",
+        "StopID": "23164",
+        "StopName": {
+          "Zh_tw": "新復1鄰土地公廟",
+          "En": "Xinfu 1st Neighborhood Tudigong Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 35,
+        "StopPosition": {
+          "PositionLat": 24.417189,
+          "PositionLon": 120.652274
+        },
+        "StationID": "7114",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23165",
+        "StopID": "23165",
+        "StopName": {
+          "Zh_tw": "田心12路",
+          "En": "Tianxin 12th Road"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 36,
+        "StopPosition": {
+          "PositionLat": 24.421132,
+          "PositionLon": 120.658806
+        },
+        "StationID": "7115",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23166",
+        "StopID": "23166",
+        "StopName": {
+          "Zh_tw": "德心橋",
+          "En": "Dexin Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 37,
+        "StopPosition": {
+          "PositionLat": 24.42384,
+          "PositionLon": 120.66093
+        },
+        "StationID": "7129",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23167",
+        "StopID": "23167",
+        "StopName": {
+          "Zh_tw": "苑裡消防隊",
+          "En": "Yuanli Fire brigade"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 38,
+        "StopPosition": {
+          "PositionLat": 24.42783,
+          "PositionLon": 120.66053
+        },
+        "StationID": "7116",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23168",
+        "StopID": "23168",
+        "StopName": {
+          "Zh_tw": "苑裡鎮中正國小",
+          "En": "Yuanli Township Chung Cheng Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 39,
+        "StopPosition": {
+          "PositionLat": 24.43013,
+          "PositionLon": 120.661174
+        },
+        "StationID": "7117",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23169",
+        "StopID": "23169",
+        "StopName": {
+          "Zh_tw": "初中路",
+          "En": "Chuzhong Road"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 40,
+        "StopPosition": {
+          "PositionLat": 24.432176,
+          "PositionLon": 120.661162
+        },
+        "StationID": "7118",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23170",
+        "StopID": "23170",
+        "StopName": {
+          "Zh_tw": "客庄(世界路)",
+          "En": "Kezhuang(Shijie Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 41,
+        "StopPosition": {
+          "PositionLat": 24.435612,
+          "PositionLon": 120.65904
+        },
+        "StationID": "7119",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23171",
+        "StopID": "23171",
+        "StopName": {
+          "Zh_tw": "下客庄",
+          "En": "Xiakezhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 42,
+        "StopPosition": {
+          "PositionLat": 24.438373,
+          "PositionLon": 120.657591
+        },
+        "StationID": "7120",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23172",
+        "StopID": "23172",
+        "StopName": {
+          "Zh_tw": "客庄國小",
+          "En": "Kch-Juang Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 43,
+        "StopPosition": {
+          "PositionLat": 24.439838,
+          "PositionLon": 120.65461
+        },
+        "StationID": "7121",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23173",
+        "StopID": "23173",
+        "StopName": {
+          "Zh_tw": "苑裡站",
+          "En": "Yuanli Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 44,
+        "StopPosition": {
+          "PositionLat": 24.442859,
+          "PositionLon": 120.651598
+        },
+        "StationID": "1019",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23174",
+        "StopID": "23174",
+        "StopName": {
+          "Zh_tw": "國立苑裡高中",
+          "En": "National Yuanli Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 45,
+        "StopPosition": {
+          "PositionLat": 24.447091,
+          "PositionLon": 120.654591
+        },
+        "StationID": "2204",
+        "LocationCityCode": "MIA"
+      }
+    ]
+  },
+  {
+    "RouteUID": "TXG839",
+    "RouteID": "839",
+    "RouteName": {
+      "Zh_tw": "839",
+      "En": "839"
+    },
+    "Operators": [
+      {
+        "OperatorID": "24",
+        "OperatorName": {
+          "Zh_tw": "建明客運",
+          "En": "Free Go Bus Co., Ltd."
+        },
+        "OperatorCode": "JianMingBus",
+        "OperatorNo": "0906"
+      }
+    ],
+    "SubRouteUID": "TXG839",
+    "SubRouteID": "839",
+    "SubRouteName": {
+      "Zh_tw": "839",
+      "En": "839"
+    },
+    "Direction": 1,
+    "CityCode": "TXG",
+    "Stops": [
+      {
+        "StopUID": "TXG23175",
+        "StopID": "23175",
+        "StopName": {
+          "Zh_tw": "國立苑裡高中",
+          "En": "National Yuanli Senior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 1,
+        "StopPosition": {
+          "PositionLat": 24.447228,
+          "PositionLon": 120.654661
+        },
+        "StationID": "2203",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23176",
+        "StopID": "23176",
+        "StopName": {
+          "Zh_tw": "苑裡站",
+          "En": "Yuanli Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 2,
+        "StopPosition": {
+          "PositionLat": 24.44296,
+          "PositionLon": 120.651579
+        },
+        "StationID": "1020",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23177",
+        "StopID": "23177",
+        "StopName": {
+          "Zh_tw": "客庄國小",
+          "En": "Kch-Juang Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 3,
+        "StopPosition": {
+          "PositionLat": 24.439783,
+          "PositionLon": 120.654638
+        },
+        "StationID": "7122",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23178",
+        "StopID": "23178",
+        "StopName": {
+          "Zh_tw": "下客庄",
+          "En": "Xiakezhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 4,
+        "StopPosition": {
+          "PositionLat": 24.438294,
+          "PositionLon": 120.657557
+        },
+        "StationID": "7123",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23179",
+        "StopID": "23179",
+        "StopName": {
+          "Zh_tw": "客庄(世界路)",
+          "En": "Kezhuang(Shijie Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 5,
+        "StopPosition": {
+          "PositionLat": 24.43579,
+          "PositionLon": 120.658872
+        },
+        "StationID": "7124",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23180",
+        "StopID": "23180",
+        "StopName": {
+          "Zh_tw": "初中路",
+          "En": "Chuzhong Road"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 6,
+        "StopPosition": {
+          "PositionLat": 24.432155,
+          "PositionLon": 120.661101
+        },
+        "StationID": "7125",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23181",
+        "StopID": "23181",
+        "StopName": {
+          "Zh_tw": "苑裡鎮中正國小",
+          "En": "Yuanli Township Chung Cheng Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 7,
+        "StopPosition": {
+          "PositionLat": 24.429811,
+          "PositionLon": 120.660676
+        },
+        "StationID": "7126",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23182",
+        "StopID": "23182",
+        "StopName": {
+          "Zh_tw": "苑裡消防隊",
+          "En": "Yuanli Fire brigade"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 8,
+        "StopPosition": {
+          "PositionLat": 24.427817,
+          "PositionLon": 120.660502
+        },
+        "StationID": "7127",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23183",
+        "StopID": "23183",
+        "StopName": {
+          "Zh_tw": "德心橋",
+          "En": "Dexin Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 9,
+        "StopPosition": {
+          "PositionLat": 24.423951,
+          "PositionLon": 120.660922
+        },
+        "StationID": "7128",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23184",
+        "StopID": "23184",
+        "StopName": {
+          "Zh_tw": "田心12路",
+          "En": "Tianxin 12th Road"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 10,
+        "StopPosition": {
+          "PositionLat": 24.421025,
+          "PositionLon": 120.658518
+        },
+        "StationID": "7130",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23185",
+        "StopID": "23185",
+        "StopName": {
+          "Zh_tw": "新復1鄰土地公廟",
+          "En": "Xinfu 1st Neighborhood Tudigong Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 11,
+        "StopPosition": {
+          "PositionLat": 24.417369,
+          "PositionLon": 120.652338
+        },
+        "StationID": "7131",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23186",
+        "StopID": "23186",
+        "StopName": {
+          "Zh_tw": "新復泉利商店",
+          "En": "Xinfu-Quanli Store"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 12,
+        "StopPosition": {
+          "PositionLat": 24.41517,
+          "PositionLon": 120.6503
+        },
+        "StationID": "7132",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23187",
+        "StopID": "23187",
+        "StopName": {
+          "Zh_tw": "幼獅幼一路口",
+          "En": "Youshi -You 1st Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 13,
+        "StopPosition": {
+          "PositionLat": 24.40789,
+          "PositionLon": 120.646163
+        },
+        "StationID": "7133",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23188",
+        "StopID": "23188",
+        "StopName": {
+          "Zh_tw": "華龍國小",
+          "En": "Hualong Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 14,
+        "StopPosition": {
+          "PositionLat": 24.40662,
+          "PositionLon": 120.648723
+        },
+        "StationID": "3688",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23189",
+        "StopID": "23189",
+        "StopName": {
+          "Zh_tw": "幼獅工業區服務中心",
+          "En": "Youth Industrial Park Service Center"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 15,
+        "StopPosition": {
+          "PositionLat": 24.40493,
+          "PositionLon": 120.652068
+        },
+        "StationID": "796",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23190",
+        "StopID": "23190",
+        "StopName": {
+          "Zh_tw": "幼獅幼六路口",
+          "En": "Youshi -You 6th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 16,
+        "StopPosition": {
+          "PositionLat": 24.403173,
+          "PositionLon": 120.65434
+        },
+        "StationID": "3690",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23191",
+        "StopID": "23191",
+        "StopName": {
+          "Zh_tw": "幼獅幼九路口",
+          "En": "Youshi -You 9th Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 17,
+        "StopPosition": {
+          "PositionLat": 24.399241,
+          "PositionLon": 120.658883
+        },
+        "StationID": "3696",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23192",
+        "StopID": "23192",
+        "StopName": {
+          "Zh_tw": "日南陸橋",
+          "En": "Rinan Bridge"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 18,
+        "StopPosition": {
+          "PositionLat": 24.395882,
+          "PositionLon": 120.657615
+        },
+        "StationID": "3698",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23193",
+        "StopID": "23193",
+        "StopName": {
+          "Zh_tw": "黎明中山路口",
+          "En": "Liming- Zhongshan Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 19,
+        "StopPosition": {
+          "PositionLat": 24.391589499999,
+          "PositionLon": 120.654507
+        },
+        "StationID": "178",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23194",
+        "StopID": "23194",
+        "StopName": {
+          "Zh_tw": "日南國小",
+          "En": "Rinan Elementary School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 20,
+        "StopPosition": {
+          "PositionLat": 24.389218,
+          "PositionLon": 120.654515
+        },
+        "StationID": "3699",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23195",
+        "StopID": "23195",
+        "StopName": {
+          "Zh_tw": "番社",
+          "En": "Fanshe"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 21,
+        "StopPosition": {
+          "PositionLat": 24.388213,
+          "PositionLon": 120.655572
+        },
+        "StationID": "3701",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23196",
+        "StopID": "23196",
+        "StopName": {
+          "Zh_tw": "日南公園(中山路)",
+          "En": "Rinan Park(Zhongshan Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 22,
+        "StopPosition": {
+          "PositionLat": 24.382049,
+          "PositionLon": 120.655669
+        },
+        "StationID": "223",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23197",
+        "StopID": "23197",
+        "StopName": {
+          "Zh_tw": "日南公園(慈德路)",
+          "En": "Rinan Park(Cide Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 23,
+        "StopPosition": {
+          "PositionLat": 24.382203000365,
+          "PositionLon": 120.6548069993
+        },
+        "StationID": "2260",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23198",
+        "StopID": "23198",
+        "StopName": {
+          "Zh_tw": "日南",
+          "En": "Rinan"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 24,
+        "StopPosition": {
+          "PositionLat": 24.381568242756,
+          "PositionLon": 120.65132256073
+        },
+        "StationID": "2157",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23199",
+        "StopID": "23199",
+        "StopName": {
+          "Zh_tw": "日南國中",
+          "En": "Rih Nan Junior High School"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 25,
+        "StopPosition": {
+          "PositionLat": 24.377119,
+          "PositionLon": 120.652824
+        },
+        "StationID": "4440",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23200",
+        "StopID": "23200",
+        "StopName": {
+          "Zh_tw": "日南車站",
+          "En": "Rinan Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 26,
+        "StopPosition": {
+          "PositionLat": 24.378588,
+          "PositionLon": 120.653706
+        },
+        "StationID": "139",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23201",
+        "StopID": "23201",
+        "StopName": {
+          "Zh_tw": "大甲農會肥料倉庫",
+          "En": "Dajia Farmers' Association Fertilizer Warehouse"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 27,
+        "StopPosition": {
+          "PositionLat": 24.3795,
+          "PositionLon": 120.6573
+        },
+        "StationID": "2521",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23202",
+        "StopID": "23202",
+        "StopName": {
+          "Zh_tw": "庄中路口",
+          "En": "Zhuangzhong Road"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 28,
+        "StopPosition": {
+          "PositionLat": 24.377429,
+          "PositionLon": 120.659559
+        },
+        "StationID": "2508",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23203",
+        "StopID": "23203",
+        "StopName": {
+          "Zh_tw": "松樹下",
+          "En": "Songshuxia"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 29,
+        "StopPosition": {
+          "PositionLat": 24.37479,
+          "PositionLon": 120.662794
+        },
+        "StationID": "5759",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23204",
+        "StopID": "23204",
+        "StopName": {
+          "Zh_tw": "太白里社區發展協會",
+          "En": "Taibai Village Community Development Association"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 30,
+        "StopPosition": {
+          "PositionLat": 24.37329,
+          "PositionLon": 120.664996
+        },
+        "StationID": "4873",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23205",
+        "StopID": "23205",
+        "StopName": {
+          "Zh_tw": "六股土地公廟",
+          "En": "Liugu Tudigong Temple"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 31,
+        "StopPosition": {
+          "PositionLat": 24.372173,
+          "PositionLon": 120.667293
+        },
+        "StationID": "2526",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23206",
+        "StopID": "23206",
+        "StopName": {
+          "Zh_tw": "莿仔埔1",
+          "En": "Cizaipu1"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 32,
+        "StopPosition": {
+          "PositionLat": 24.371326,
+          "PositionLon": 120.668925
+        },
+        "StationID": "2603",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23207",
+        "StopID": "23207",
+        "StopName": {
+          "Zh_tw": "莿仔埔2",
+          "En": "Cizaipu2"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 33,
+        "StopPosition": {
+          "PositionLat": 24.369513,
+          "PositionLon": 120.672498
+        },
+        "StationID": "469",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23208",
+        "StopID": "23208",
+        "StopName": {
+          "Zh_tw": "莿仔埔3",
+          "En": "Cizaipu3"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 34,
+        "StopPosition": {
+          "PositionLat": 24.369009999999,
+          "PositionLon": 120.673755
+        },
+        "StationID": "4860",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23209",
+        "StopID": "23209",
+        "StopName": {
+          "Zh_tw": "幸福里三張犁",
+          "En": "Xingfu Village Sanzhangli"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 35,
+        "StopPosition": {
+          "PositionLat": 24.367815,
+          "PositionLon": 120.676001
+        },
+        "StationID": "4954",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23210",
+        "StopID": "23210",
+        "StopName": {
+          "Zh_tw": "茸仔寮",
+          "En": "Rongzailiao"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 36,
+        "StopPosition": {
+          "PositionLat": 24.366244,
+          "PositionLon": 120.679289
+        },
+        "StationID": "5740",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23211",
+        "StopID": "23211",
+        "StopName": {
+          "Zh_tw": "六股庄",
+          "En": "Liuguzhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 37,
+        "StopPosition": {
+          "PositionLat": 24.36412,
+          "PositionLon": 120.68475
+        },
+        "StationID": "4147",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23212",
+        "StopID": "23212",
+        "StopName": {
+          "Zh_tw": "水門(北堤東路)",
+          "En": "Shuimen(Beidi East Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 38,
+        "StopPosition": {
+          "PositionLat": 24.360668,
+          "PositionLon": 120.712615
+        },
+        "StationID": "7134",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23213",
+        "StopID": "23213",
+        "StopName": {
+          "Zh_tw": "伯公坑",
+          "En": "Bogongkeng"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 39,
+        "StopPosition": {
+          "PositionLat": 24.35789,
+          "PositionLon": 120.73358
+        },
+        "StationID": "7135",
+        "LocationCityCode": "MIA"
+      },
+      {
+        "StopUID": "TXG23214",
+        "StopID": "23214",
+        "StopName": {
+          "Zh_tw": "新店庄",
+          "En": "Xindianzhuang"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 40,
+        "StopPosition": {
+          "PositionLat": 24.341497,
+          "PositionLon": 120.732072
+        },
+        "StationID": "7136",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23215",
+        "StopID": "23215",
+        "StopName": {
+          "Zh_tw": "中路(三豐路)",
+          "En": "Zhonglu(Sanfeng Road)"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 41,
+        "StopPosition": {
+          "PositionLat": 24.339215,
+          "PositionLon": 120.731523
+        },
+        "StationID": "7137",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23216",
+        "StopID": "23216",
+        "StopName": {
+          "Zh_tw": "中社",
+          "En": "Zhongshe"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 42,
+        "StopPosition": {
+          "PositionLat": 24.334573,
+          "PositionLon": 120.730371
+        },
+        "StationID": "6858",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23217",
+        "StopID": "23217",
+        "StopName": {
+          "Zh_tw": "三豐安眉路口",
+          "En": "Sanfeng-Anmei Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 43,
+        "StopPosition": {
+          "PositionLat": 24.332692,
+          "PositionLon": 120.729924
+        },
+        "StationID": "6860",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23218",
+        "StopID": "23218",
+        "StopName": {
+          "Zh_tw": "安眉福美路口",
+          "En": "Anmei-Fumei Intersection"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 44,
+        "StopPosition": {
+          "PositionLat": 24.330444,
+          "PositionLon": 120.736061
+        },
+        "StationID": "3008",
+        "LocationCityCode": "TXG"
+      },
+      {
+        "StopUID": "TXG23219",
+        "StopID": "23219",
+        "StopName": {
+          "Zh_tw": "泰安車站",
+          "En": "Taian Station"
+        },
+        "StopBoarding": 0,
+        "StopSequence": 45,
+        "StopPosition": {
+          "PositionLat": 24.3309,
+          "PositionLon": 120.741847
+        },
+        "StationID": "7138",
+        "LocationCityCode": "TXG"
+      }
+    ]
+  }
+]
